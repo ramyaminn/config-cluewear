@@ -4,8 +4,8 @@
       "image": "https://clue.eg/cdn/shop/files/ENG._LOGO-02.png?v=1779627957&width=310",
       "layout": "logo",
       "opacity": 1,
-      "iconSize": 40,
-      "logoSize": 65,
+      "iconSize": 20,
+      "logoSize": 45,
       "menuIcon": {
         "name": "text_justifyleft",
         "fontFamily": "CupertinoIcons"
