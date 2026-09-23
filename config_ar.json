@@ -57,14 +57,12 @@
           "type": "image",
           "image": "https://clue.eg/cdn/shop/files/SETS_V_09d0ab81-7691-42e4-9727-d198197e659b.png?v=1783341141&width=1176",
           "video": "",
-          "category": "gid://shopify/Collection/479544344884",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false,
-          "productCategoryMenuStyle": "menu",
-          "allowFilterMultipleCategory": false
+          "category": "gid://shopify/Collection/479544344884"
         }
       ],
       "marginBottom": 0,
