@@ -1,0 +1,2091 @@
+{
+  "HorizonLayout": [
+    {
+      "image": "https://trello.com/1/cards/6909f6f56925fd5dc8119037/attachments/69e0371dd9ac0e71c46a95f7/download/logo.png",
+      "layout": "logo",
+      "opacity": 1,
+      "iconSize": 20,
+      "logoSize": 45,
+      "menuIcon": {
+        "name": "text_justifyleft",
+        "fontFamily": "CupertinoIcons"
+      },
+      "showCart": false,
+      "showLogo": true,
+      "showMenu": true,
+      "iconColor": "ff000000",
+      "iconRadius": 6,
+      "showSearch": true,
+      "iconOpacity": 0,
+      "productType": true,
+      "showBadgeCart": false,
+      "iconSpreadRadius": 0,
+      "showNotification": true
+    },
+    {
+      "layout": "bannerImage",
+      "design": "swiper",
+      "fit": "cover",
+      "marginLeft": 0,
+      "items": [
+        {
+          "key": "kJDrLkurgp",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/30_1.png?v=1788955245&width=3000",
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": "gid://shopify/Collection/490093478128"
+        },
+        {
+          "key": "rUaTgjLCzy",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_9.jpg?v=1788336582&width=3000",
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": "gid://shopify/Collection/490093478128"
+        },
+        {
+          "key": "hzIIUeKYxX",
+          "name": "Ramadan Collection",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_6.jpg?v=1788336728&width=800",
+          "video": "",
+          "category": "gid://shopify/Collection/474397769968",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "productCategoryMenuStyle": "menu",
+          "allowFilterMultipleCategory": false
+        },
+        {
+          "key": "vdyTKUOnFL",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_5.jpg?v=1788336763&width=800",
+          "video": "",
+          "category": "gid://shopify/Collection/485426299120",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        },
+        {
+          "key": "",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Panty_mobile_20-7-2026.jpg?v=1784557332&width=1600",
+          "video": "",
+          "category": "gid://shopify/Collection/485439013104",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        }
+      ],
+      "marginBottom": 0,
+      "height": 0.6,
+      "marginRight": 0,
+      "marginTop": 0,
+      "radius": 0,
+      "padding": 0,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "isHorizontal": false,
+      "enableBackground": false,
+      "indicatorAlignment": {
+        "value": "bottomCenter"
+      },
+      "indicatorPadding": {
+        "start": 0,
+        "top": 0,
+        "end": 0,
+        "bottom": 12
+      },
+      "numberAlignment": {
+        "value": "topEnd"
+      },
+      "numberPadding": {
+        "start": 0,
+        "top": 15,
+        "end": 0,
+        "bottom": 0
+      },
+      "isSlider": true,
+      "autoPlay": true,
+      "intervalTime": 3,
+      "showIndicator": true,
+      "showNumber": false,
+      "isBlur": false,
+      "showBackground": false,
+      "upHeight": 0,
+      "videoConfig": {
+        "autoPlay": false,
+        "aspectRatio": 1.7777777777777777,
+        "enableTimeIndicator": true,
+        "tapToPlayPause": true,
+        "holdToPlayPause": false,
+        "isSoundOn": false,
+        "doubleTapToFullScreen": false,
+        "showVolumeButton": true,
+        "showFullScreenButton": true,
+        "enableLoop": false,
+        "showLoading": false,
+        "backgroundColor": null
+      },
+      "pageIndicatorType": "circle"
+    },
+    {
+      "height": 10,
+      "layout": "spacer",
+      "useLightColor": false,
+      "backgroundColor": null
+    },
+    {
+      "category": "gid://shopify/Collection/485426299120",
+      "name": "اشتري 5 بسعر 2",
+      "layout": "twoColumn",
+      "isSnapping": false,
+      "borderRadius": 6,
+      "hMargin": 0,
+      "useCircularRadius": true,
+      "useSort": false,
+      "showCategory": false,
+      "vMargin": 0,
+      "hPadding": 6,
+      "vPadding": 2,
+      "marginBGP": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "backgroundHeight": 400,
+      "backgroundBoxFit": "cover",
+      "cardDesign": "card",
+      "titleLine": 1,
+      "limit": 14,
+      "advancedParams": {},
+      "backgroundRadius": 0,
+      "showCountDown": false,
+      "onSale": false,
+      "rows": 1,
+      "columns": 2,
+      "imageRatio": 1.5,
+      "imageBoxfit": "cover",
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "hideAddress": false,
+      "featured": true,
+      "enableRating": true,
+      "showStockStatus": false,
+      "hideEmptyProductListRating": false,
+      "showHeart": true,
+      "showProductCardCategory": false,
+      "showPhoneNumber": false,
+      "showShortDescription": false,
+      "showListingType": true,
+      "showCartButton": false,
+      "showCartIcon": false,
+      "showCartIconColor": false,
+      "cartIconRadius": 50,
+      "showQuantity": false,
+      "enableBottomAddToCart": false,
+      "showOnlyImage": false,
+      "showCartButtonWithQuantity": false,
+      "cartButtonQuantitySize": 40,
+      "parallax": false,
+      "parallaxImageRatio": 1.4,
+      "hideEmptyProductLayout": false,
+      "productListItemHeight": 66,
+      "enableAutoSliding": false,
+      "orderby": "date",
+      "order": "desc"
+    },
+    {
+      "height": 12,
+      "layout": "spacer",
+      "useLightColor": false,
+      "backgroundColor": null
+    },
+    {
+      "type": "image",
+      "wrap": true,
+      "horizontalItem": false,
+      "columns": 3,
+      "layout": "category",
+      "name": "ترند الموسم ✨",
+      "marginLeft": 0,
+      "marginRight": 5,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "separateWidth": 0,
+      "shadow": null,
+      "gradientStyle": true,
+      "items": [
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "جينز",
+          "name": "جينز",
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/Untitled-ssasacopy.jpg?v=1788342498&width=600",
+          "tag": null,
+          "category": "gid://shopify/Collection/417207812336",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        },
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "بدون خياطة",
+          "name": "بدون خياطة",
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/Bra_21.jpg?v=1783590560&width=600",
+          "tag": null,
+          "category": "gid://shopify/Collection/486332170480",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        },
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "ألوان الموسم",
+          "name": "ألوان الموسم",
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/Untitled-1_azazzcopy.jpg?v=1788341594&width=600",
+          "tag": null,
+          "category": "gid://shopify/Collection/486335348976",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        }
+      ],
+      "enableBackground": false,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "itemSize": {
+        "width": 120,
+        "height": 180
+      },
+      "imageBoxFit": "cover",
+      "textAlignment": "topLeft",
+      "radius": 8,
+      "spacing": 0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0,
+      "size": 1,
+      "enableBorder": false,
+      "hideTitle": false,
+      "originalColor": false,
+      "noBackground": false,
+      "labelFontSize": 14,
+      "animationConfig": null,
+      "allowFilterMultipleCategory": false,
+      "productCategoryMenuStyle": "menu",
+      "categoryMenuShowDepth": false
+    },
+    {
+      "type": "image",
+      "wrap": true,
+      "horizontalItem": false,
+      "columns": 1,
+      "layout": "category",
+      "marginLeft": 0,
+      "marginRight": 5,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "separateWidth": 0,
+      "shadow": null,
+      "gradientStyle": true,
+      "items": [
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "تصفيات الصيف",
+          "name": "تصفيات الصيف",
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/Untitled-4_93ba7897-299a-408c-98ac-9263aeb930cd.jpg?v=1787133134&width=1200",
+          "tag": null,
+          "category": "gid://shopify/Collection/490093478128",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        },
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "كولكشن الشتاء الجديد",
+          "name": "كولكشن الشتاء الجديد",
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/Untitled-4_wn_copy.jpg?v=1787133022&width=1200",
+          "tag": null,
+          "category": "gid://shopify/Collection/488907210992",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        }
+      ],
+      "enableBackground": false,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "itemSize": {
+        "width": 350,
+        "height": 350
+      },
+      "imageBoxFit": "cover",
+      "textAlignment": "topLeft",
+      "radius": 8,
+      "spacing": 0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0,
+      "size": 1,
+      "enableBorder": false,
+      "hideTitle": false,
+      "originalColor": false,
+      "noBackground": false,
+      "labelFontSize": 24,
+      "animationConfig": null,
+      "allowFilterMultipleCategory": false,
+      "productCategoryMenuStyle": "menu",
+      "categoryMenuShowDepth": false
+    },
+    {
+      "height": 20,
+      "layout": "spacer",
+      "useLightColor": false,
+      "backgroundColor": null
+    },
+    {
+      "category": "gid://shopify/Collection/412250833136",
+      "name": "وصل حديثا",
+      "layout": "twoColumn",
+      "isSnapping": false,
+      "borderRadius": 6,
+      "hMargin": 0,
+      "useCircularRadius": true,
+      "useSort": false,
+      "showCategory": false,
+      "vMargin": 0,
+      "hPadding": 6,
+      "vPadding": 2,
+      "backgroundHeight": 400,
+      "cardDesign": "card",
+      "titleLine": 1,
+      "advancedParams": {},
+      "backgroundRadius": 10,
+      "showCountDown": false,
+      "onSale": false,
+      "rows": 1,
+      "columns": 2,
+      "imageRatio": 1.5,
+      "imageBoxfit": "cover",
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "hideAddress": false,
+      "enableRating": true,
+      "showStockStatus": false,
+      "hideEmptyProductListRating": false,
+      "showHeart": true,
+      "showProductCardCategory": false,
+      "showPhoneNumber": false,
+      "showShortDescription": false,
+      "showListingType": true,
+      "showCartButton": false,
+      "showCartIcon": false,
+      "showCartIconColor": false,
+      "cartIconRadius": 50,
+      "showQuantity": false,
+      "enableBottomAddToCart": false,
+      "showOnlyImage": false,
+      "showCartButtonWithQuantity": false,
+      "cartButtonQuantitySize": 40,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "hideEmptyProductLayout": false,
+      "productListItemHeight": 66,
+      "enableAutoSliding": false,
+      "orderby": "date",
+      "order": "desc"
+    },
+    {
+      "height": 20,
+      "layout": "spacer",
+      "useLightColor": false,
+      "backgroundColor": null
+    },
+    {
+      "type": "image",
+      "wrap": true,
+      "horizontalItem": false,
+      "columns": 3,
+      "layout": "category",
+      "marginLeft": 0,
+      "marginRight": 5,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "separateWidth": 0,
+      "shadow": null,
+      "gradientStyle": true,
+      "items": [
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": null,
+          "name": null,
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/59155_2_1_1.png?v=1782126715&width=800",
+          "tag": null,
+          "category": "gid://shopify/Collection/404704100592",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        },
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": null,
+          "name": null,
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/2_81478ec2-a78b-425e-bdbb-d76668017d63.jpg?v=1781177722&width=800",
+          "tag": null,
+          "category": "gid://shopify/Collection/417094992112",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        },
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": null,
+          "name": null,
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/seamless_corset.png?v=1788167362&width=800",
+          "tag": null,
+          "category": "gid://shopify/Collection/404704035056",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        }
+      ],
+      "enableBackground": null,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "itemSize": {
+        "width": 120,
+        "height": 180
+      },
+      "imageBoxFit": "cover",
+      "textAlignment": "topLeft",
+      "radius": 8,
+      "spacing": 0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0,
+      "size": 1,
+      "enableBorder": false,
+      "hideTitle": false,
+      "originalColor": false,
+      "noBackground": false,
+      "labelFontSize": 16,
+      "animationConfig": null,
+      "allowFilterMultipleCategory": false,
+      "productCategoryMenuStyle": "menu",
+      "categoryMenuShowDepth": false
+    },
+    {
+      "type": "image",
+      "wrap": true,
+      "horizontalItem": false,
+      "columns": 1,
+      "layout": "category",
+      "marginLeft": 0,
+      "marginRight": 5,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "separateWidth": 0,
+      "shadow": null,
+      "gradientStyle": true,
+      "items": [
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "ملابس النوم",
+          "name": "ملابس النوم",
+          "keepDefaultTitle": false,
+          "colors": null,
+          "image": "https://carina.eg/cdn/shop/files/imgi_41_670846801_18425918794193673_5202337866513534133_n.jpg?v=1788344068&width=800",
+          "tag": null,
+          "category": "gid://shopify/Collection/404701446384",
+          "showDescription": false,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": true,
+          "description": "",
+          "productListAnimationConfig": null
+        }
+      ],
+      "enableBackground": false,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "itemSize": {
+        "width": 350,
+        "height": 450
+      },
+      "imageBoxFit": "cover",
+      "textAlignment": "topLeft",
+      "radius": 8,
+      "spacing": 0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0,
+      "size": 1,
+      "enableBorder": false,
+      "hideTitle": false,
+      "originalColor": false,
+      "noBackground": false,
+      "labelFontSize": 24,
+      "animationConfig": null,
+      "allowFilterMultipleCategory": false,
+      "productCategoryMenuStyle": "menu",
+      "categoryMenuShowDepth": false
+    },
+    {
+      "height": 20,
+      "layout": "spacer",
+      "useLightColor": false,
+      "backgroundColor": null
+    },
+    {
+      "category": "gid://shopify/Collection/482400239856",
+      "name": "الأكثر مبيعاً",
+      "layout": "twoColumn",
+      "isSnapping": false,
+      "borderRadius": 6,
+      "hMargin": 0,
+      "useCircularRadius": true,
+      "useSort": false,
+      "showCategory": false,
+      "vMargin": 0,
+      "hPadding": 6,
+      "vPadding": 2,
+      "backgroundHeight": 400,
+      "cardDesign": "card",
+      "titleLine": 1,
+      "advancedParams": {},
+      "backgroundRadius": 10,
+      "showCountDown": false,
+      "onSale": false,
+      "rows": 1,
+      "columns": 2,
+      "imageRatio": 1.5,
+      "imageBoxfit": "cover",
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "hideAddress": false,
+      "enableRating": true,
+      "showStockStatus": false,
+      "hideEmptyProductListRating": false,
+      "showHeart": true,
+      "showProductCardCategory": false,
+      "showPhoneNumber": false,
+      "showShortDescription": false,
+      "showListingType": true,
+      "showCartButton": false,
+      "showCartIcon": false,
+      "showCartIconColor": false,
+      "cartIconRadius": 50,
+      "showQuantity": false,
+      "enableBottomAddToCart": false,
+      "showOnlyImage": false,
+      "showCartButtonWithQuantity": false,
+      "cartButtonQuantitySize": 40,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "hideEmptyProductLayout": false,
+      "productListItemHeight": 66,
+      "enableAutoSliding": false,
+      "orderby": "date",
+      "order": "desc"
+    }
+  ],
+  "Setting": {
+    "ShowChat": true,
+    "FontFamily": "Cairo",
+    "FontHeader": "Cairo",
+    "StickyHeader": true,
+    "TabBarConfig": {
+      "color": "27d9027d",
+      "enable": true,
+      "iconSize": 20,
+      "colorCart": "ffd9027d",
+      "colorIcon": "ff000000",
+      "marginTop": 0,
+      "isSafeArea": false,
+      "marginLeft": 10,
+      "paddingTop": 0,
+      "enableOnTop": false,
+      "lazyLoading": false,
+      "marginRight": 10,
+      "paddingLeft": 0,
+      "marginBottom": 15,
+      "paddingRight": 0,
+      "showFloating": false,
+      "showMinimize": false,
+      "enableDivider": false,
+      "paddingBottom": 0,
+      "radiusTopLeft": 12,
+      "TabBarFloating": {
+        "color": null,
+        "width": 50,
+        "height": 50,
+        "margin": null,
+        "radius": 50,
+        "location": null,
+        "position": 2,
+        "sizeIcon": null,
+        "elevation": 2,
+        "isCoverMode": false,
+        "notchMargin": 4,
+        "floatingType": "rectangle"
+      },
+      "bottomBarStyle": "static",
+      "indicatorStyle": "none",
+      "radiusTopRight": 12,
+      "TabBarIndicator": {
+        "color": "ff101828",
+        "height": 4,
+        "radius": 2,
+        "strokeWidth": 4,
+        "tabPosition": "top",
+        "indicatorSize": null,
+        "paintingStyle": "stroke",
+        "topLeftRadius": 9.266948361796246,
+        "topRightRadius": 9.138236789907289,
+        "verticalPadding": 0,
+        "bottomLeftRadius": 9.173194264700902,
+        "bottomRightRadius": 8.866903346613203,
+        "horizontalPadding": 0,
+        "distanceFromCenter": 25
+      },
+      "colorActiveIcon": "ffd9027d",
+      "alwaysShowTabBar": false,
+      "radiusBottomLeft": 12,
+      "showFloatingClip": true,
+      "radiusBottomRight": 12
+    },
+    "ProductDetail": "flatStyle",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "key": "LdgrhGgyrT",
+      "pos": 100,
+      "icon": "house_fill",
+      "layout": "home",
+      "defaultTab": false,
+      "fontFamily": "CupertinoIcons",
+      "fullscreen": false,
+      "showOriginalColor": false
+    },
+    {
+      "key": "DYkjjjtfDEt",
+      "pos": 200,
+      "icon": "assets/icons/discount.png",
+      "layout": "dynamic",
+      "configs": {
+        "key": "DYkjjjtfDEt",
+        "pos": 200,
+        "data": "PCEtLSDwn5SlIEhFQURFUiAtLT4KPGRpdiBzdHlsZT0icGFkZGluZzo0MHB4OyB0ZXh0LWFsaWduOmNlbnRlcjsgYmFja2dyb3VuZDojZmZmZmZmOyI+CiAgPGgyIHN0eWxlPSJmb250LXNpemU6MzJweDsgY29sb3I6IzFhMWExYTsgbWFyZ2luLWJvdHRvbToxNnB4OyI+CiAgICBUaGUgQklHR0VTVCBESVNDT1VOVFMgaW4gRWd5cHQKICA8L2gyPgoKICA8aDMgc3R5bGU9ImZvbnQtc2l6ZToxNnB4OyBjb2xvcjojMWExYTFhOyI+CiAgICBNVVNUIEhBVkUgUElFQ0VTIGF0IGEgR1JFQVQgVkFMVUUhCiAgPC9oMz4KPC9kaXY+CgoKPCEtLSDwn5SlIEFMTCBCTE9DS1MgLS0+CjxkaXYgc3R5bGU9InBhZGRpbmc6MTZweDsgYmFja2dyb3VuZDojZmZmZmZmOyI+CgogIDwhLS0gSVRFTSAxIC0tPgogIDxkaXYgc3R5bGU9Im1hcmdpbi1ib3R0b206MjBweDsiPgogICAgPGEgaHJlZj0iaHR0cHM6Ly9jYXJpbmEuZWcvQ29sbGVjdGlvbi80MTIyNTA4MzMxMzYiPgogICAgICA8aW1nIAogICAgICAgIHNyYz0iaHR0cHM6Ly9jYXJpbmEuZWcvY2RuL3Nob3AvZmlsZXMvV2hhdHNBcHBfSW1hZ2VfMjAyNi0wMy0xMl9hdF8xMS4zNy40NF9BTV8xMzc2eC5qcGc/dj0xNzczMzA4Mjg2IgogICAgICAgIHN0eWxlPSJ3aWR0aDoxMDAlOyBoZWlnaHQ6MjIwcHg7IG9iamVjdC1maXQ6Y292ZXI7IGJvcmRlci1yYWRpdXM6MTBweDsiCiAgICAgIC8+CiAgICA8L2E+CgogICAgPGRpdiBzdHlsZT0ibWFyZ2luLXRvcDoxMHB4OyB0ZXh0LWFsaWduOmNlbnRlcjsgYmFja2dyb3VuZDojZjdmOGZkOyBwYWRkaW5nOjE1cHg7IGJvcmRlci1yYWRpdXM6MTBweDsiPgogICAgICA8cCBzdHlsZT0iZm9udC1zaXplOjEycHg7IGNvbG9yOiMxZTMxNmE7IG1hcmdpbjowOyI+RVhDTFVTSVZFPC9wPgogICAgICA8cCBzdHlsZT0iZm9udC1zaXplOjE2cHg7IGNvbG9yOiMxZTMxNmE7IGZvbnQtd2VpZ2h0OmJvbGQ7IG1hcmdpbi10b3A6NXB4OyI+CiAgICAgICAgVVAgVE8gNDAlIE9GRiBQQU5USUVTCiAgICAgIDwvcD4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8IS0tIElURU0gMiAtLT4KICA8ZGl2IHN0eWxlPSJtYXJnaW4tYm90dG9tOjIwcHg7Ij4KICAgIDxhIGhyZWY9Ii9jb2xsZWN0aW9ucy9uZXctYXJyaXZhbHMiPgogICAgICA8aW1nIAogICAgICAgIHNyYz0iaHR0cHM6Ly9jYXJpbmEuZWcvY2RuL3Nob3AvZmlsZXMvTkVXX0FSUklWQUxfRGVza3RvcF9iYW5uZXJfMi00LTIwMjZfMjc3NGViNTYtMmNiZi00ZjA5LTgxNDktNzUwYmJhMTc3NjlhXzEyMTZ4LmpwZz92PTE3Nzc4MDE3MTUiCiAgICAgICAgc3R5bGU9IndpZHRoOjEwMCU7IGhlaWdodDoyMjBweDsgb2JqZWN0LWZpdDpjb3ZlcjsgYm9yZGVyLXJhZGl1czoxMHB4OyIKICAgICAgLz4KICAgIDwvYT4KCiAgICA8ZGl2IHN0eWxlPSJtYXJnaW4tdG9wOjEwcHg7IHRleHQtYWxpZ246Y2VudGVyOyBiYWNrZ3JvdW5kOiNmN2Y4ZmQ7IHBhZGRpbmc6MTVweDsgYm9yZGVyLXJhZGl1czoxMHB4OyI+CiAgICAgIDxwIHN0eWxlPSJmb250LXNpemU6MTJweDsgY29sb3I6IzFlMzE2YTsgbWFyZ2luOjA7Ij5IVVJSWSBVUCE8L3A+CiAgICAgIDxwIHN0eWxlPSJmb250LXNpemU6MTZweDsgY29sb3I6IzFlMzE2YTsgZm9udC13ZWlnaHQ6Ym9sZDsgbWFyZ2luLXRvcDo1cHg7Ij4KICAgICAgICAxNSUgT0ZGIE5FVyBBUlJJVkFMUwogICAgICA8L3A+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPCEtLSBJVEVNIDMgLS0+CiAgPGRpdiBzdHlsZT0ibWFyZ2luLWJvdHRvbToyMHB4OyI+CiAgICA8YSBocmVmPSIvY29sbGVjdGlvbnMvYmFzaWMtc2FsZSI+CiAgICAgIDxpbWcgCiAgICAgICAgc3JjPSJodHRwczovL2NhcmluYS5lZy9jZG4vc2hvcC9maWxlcy9HZW1pbmlfR2VuZXJhdGVkX0ltYWdlX3N5bXBzeXN5bXBzeXN5bXBfMTAyNHgucG5nP3Y9MTc3MDEyMDIzMiIKICAgICAgICBzdHlsZT0id2lkdGg6MTAwJTsgaGVpZ2h0OjIyMHB4OyBvYmplY3QtZml0OmNvdmVyOyBib3JkZXItcmFkaXVzOjEwcHg7IgogICAgICAvPgogICAgPC9hPgoKICAgIDxkaXYgc3R5bGU9Im1hcmdpbi10b3A6MTBweDsgdGV4dC1hbGlnbjpjZW50ZXI7IGJhY2tncm91bmQ6I2Y3ZjhmZDsgcGFkZGluZzoxNXB4OyBib3JkZXItcmFkaXVzOjEwcHg7Ij4KICAgICAgPHAgc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyBjb2xvcjojMWUzMTZhOyBtYXJnaW46MDsiPkxJTUlURUQgVElNRTwvcD4KICAgICAgPHAgc3R5bGU9ImZvbnQtc2l6ZToxNnB4OyBjb2xvcjojMWUzMTZhOyBmb250LXdlaWdodDpib2xkOyBtYXJnaW4tdG9wOjVweDsiPgogICAgICAgIEJVWSAxIEdFVCAxIEZSRUUgQ0FSSU5BIEJBU0lDUwogICAgICA8L3A+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPCEtLSBJVEVNIDQgLS0+CiAgPGRpdiBzdHlsZT0ibWFyZ2luLWJvdHRvbToyMHB4OyI+CiAgICA8YSBocmVmPSIvY29sbGVjdGlvbnMvZW5kLW9mLXNlYXNvbi1zYWxlIj4KICAgICAgPGltZyAKICAgICAgICBzcmM9Imh0dHBzOi8vY2FyaW5hLmVnL2Nkbi9zaG9wL2ZpbGVzLzU3MzY3NTQ3NV8xODUzOTk1NzYzNTAxOTk4Ml8zMzM5Njg1NTQwOTk4NjgyMDIyX25fMV85MzN4LmpwZz92PTE3NzAxMTg3MzMiCiAgICAgICAgc3R5bGU9IndpZHRoOjEwMCU7IGhlaWdodDoyMjBweDsgb2JqZWN0LWZpdDpjb3ZlcjsgYm9yZGVyLXJhZGl1czoxMHB4OyIKICAgICAgLz4KICAgIDwvYT4KCiAgICA8ZGl2IHN0eWxlPSJtYXJnaW4tdG9wOjEwcHg7IHRleHQtYWxpZ246Y2VudGVyOyBiYWNrZ3JvdW5kOiNmN2Y4ZmQ7IHBhZGRpbmc6MTVweDsgYm9yZGVyLXJhZGl1czoxMHB4OyI+CiAgICAgIDxwIHN0eWxlPSJmb250LXNpemU6MTJweDsgY29sb3I6IzFlMzE2YTsgbWFyZ2luOjA7Ij5IVVJSWSBVUCE8L3A+CiAgICAgIDxwIHN0eWxlPSJmb250LXNpemU6MTZweDsgY29sb3I6IzFlMzE2YTsgZm9udC13ZWlnaHQ6Ym9sZDsgbWFyZ2luLXRvcDo1cHg7Ij4KICAgICAgICA1MCUgT0ZGIFdJTlRFUiBDT0xMRUNUSU9OCiAgICAgIDwvcD4KICAgIDwvZGl2PgogIDwvZGl2PgoKPC9kaXY+",
+        "icon": "local_offer_outlined",
+        "layout": "html",
+        "defaultTab": false,
+        "fontFamily": "MaterialIcons",
+        "fullscreen": false,
+        "HorizonLayout": [
+          {
+            "image": "https://raw.githubusercontent.com/fluxbuilder/images/main/2026/5/4bb3982ccc74/1777901001866.png",
+            "layout": "logo",
+            "opacity": 1,
+            "iconSize": 20,
+            "logoSize": 45,
+            "showCart": false,
+            "showLogo": true,
+            "showMenu": false,
+            "iconRadius": 6,
+            "showSearch": false,
+            "iconOpacity": 0,
+            "productType": true,
+            "showBadgeCart": false,
+            "iconSpreadRadius": 0,
+            "showNotification": false
+          },
+          {
+            "isSafeArea": true,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "اكبر خصومات في مصر",
+            "type": "static",
+            "textColor": "FF000000",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 22,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginTop": 15,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 44,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": " خصومات مذهلة على القطع الأساسية – أفضل الأسعار ",
+            "type": "static",
+            "textColor": "FF000000",
+            "alignment": "center",
+            "fontWeight": 400,
+            "fontSize": 16,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 30,
+            "marginTop": 0,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 44,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "type": "image",
+            "wrap": false,
+            "items": [
+              {
+                "tag": null,
+                "name": null,
+                "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
+                "order": null,
+                "title": null,
+                "colors": null,
+                "onSale": false,
+                "orderby": null,
+                "category": "gid://shopify/Collection/479501910256",
+                "featured": false,
+                "showText": false,
+                "description": null,
+                "productType": false,
+                "originalColor": false,
+                "backgroundColor": null,
+                "showDescription": false,
+                "keepDefaultTitle": false,
+                "productListAnimationConfig": null,
+                "link": ""
+              }
+            ],
+            "border": 0,
+            "layout": "category",
+            "radius": 10,
+            "shadow": null,
+            "columns": 5,
+            "marginX": 0,
+            "marginY": 0,
+            "spacing": 12,
+            "itemSize": {
+              "width": 385,
+              "height": 280
+            },
+            "paddingX": 0,
+            "paddingY": 0,
+            "hideTitle": false,
+            "marginTop": 0,
+            "marginLeft": 0,
+            "imageBoxFit": "cover",
+            "marginRight": 0,
+            "enableBorder": true,
+            "imageSpacing": 0,
+            "marginBottom": 0,
+            "noBackground": false,
+            "gradientStyle": false,
+            "labelFontSize": 8,
+            "originalColor": false,
+            "separateWidth": 24,
+            "textAlignment": "topCenter",
+            "horizontalItem": false,
+            "animationConfig": null,
+            "enableBackground": null,
+            "imageBorderStyle": "solid",
+            "imageBorderWidth": 0,
+            "categoryMenuShowDepth": false,
+            "productCategoryMenuStyle": "menu",
+            "allowFilterMultipleCategory": false
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "حصرياً",
+            "type": "static",
+            "textColor": "e6007e",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 16,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginTop": 10,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 30,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "خصم حتي 40% علي البانتيهاتتت",
+            "type": "static",
+            "textColor": "FF000000",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 18,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 30,
+            "marginTop": 0,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 44,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "type": "image",
+            "wrap": false,
+            "horizontalItem": false,
+            "columns": 5,
+            "layout": "category",
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "separateWidth": 24,
+            "shadow": null,
+            "gradientStyle": false,
+            "items": [
+              {
+                "originalColor": false,
+                "backgroundColor": null,
+                "title": null,
+                "name": null,
+                "keepDefaultTitle": false,
+                "colors": null,
+                "image": "https://carina.eg/cdn/shop/files/Reading_relaxing_recharging_in_the_comfiest_PJs_carinawear_comfypajamas_carinacomfort_pajama_1080x.jpg?v=1778772687",
+                "tag": null,
+                "category": "gid://shopify/Collection/412250833136",
+                "showDescription": false,
+                "productType": false,
+                "orderby": null,
+                "order": null,
+                "onSale": false,
+                "featured": false,
+                "showText": false,
+                "description": null,
+                "productListAnimationConfig": null,
+                "link": ""
+              }
+            ],
+            "enableBackground": null,
+            "paddingX": 0,
+            "paddingY": 0,
+            "marginX": 0,
+            "marginY": 0,
+            "itemSize": {
+              "width": 385,
+              "height": 280
+            },
+            "imageBoxFit": "cover",
+            "textAlignment": "topCenter",
+            "radius": 10,
+            "spacing": 12,
+            "imageBorderWidth": 0,
+            "imageBorderStyle": "solid",
+            "imageSpacing": 0,
+            "border": 0,
+            "enableBorder": true,
+            "hideTitle": false,
+            "originalColor": false,
+            "noBackground": false,
+            "labelFontSize": 8,
+            "animationConfig": null,
+            "allowFilterMultipleCategory": false,
+            "productCategoryMenuStyle": "menu",
+            "categoryMenuShowDepth": false
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "أسرعي!",
+            "type": "static",
+            "textColor": "e6007e",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 16,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginTop": 10,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 30,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "خصم 40% علي الكولكشن الجديد",
+            "type": "static",
+            "textColor": "FF000000",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 18,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 35,
+            "marginTop": 0,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 44,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "type": "image",
+            "wrap": false,
+            "horizontalItem": false,
+            "columns": 5,
+            "layout": "category",
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "separateWidth": 24,
+            "shadow": null,
+            "gradientStyle": false,
+            "items": [
+              {
+                "originalColor": false,
+                "backgroundColor": null,
+                "title": null,
+                "name": null,
+                "keepDefaultTitle": false,
+                "colors": null,
+                "image": "https://carina.eg/cdn/shop/files/imgi_57_538935657_18390064990193673_2321204138032070021_n_-2copy_1400x.jpg?v=1778502010",
+                "tag": null,
+                "category": "gid://shopify/Collection/473920700656",
+                "showDescription": false,
+                "productType": false,
+                "orderby": null,
+                "order": null,
+                "onSale": false,
+                "featured": false,
+                "showText": false,
+                "description": null,
+                "productListAnimationConfig": null,
+                "link": ""
+              }
+            ],
+            "enableBackground": null,
+            "paddingX": 0,
+            "paddingY": 0,
+            "marginX": 0,
+            "marginY": 0,
+            "itemSize": {
+              "width": 385,
+              "height": 280
+            },
+            "imageBoxFit": "cover",
+            "textAlignment": "topCenter",
+            "radius": 10,
+            "spacing": 12,
+            "imageBorderWidth": 0,
+            "imageBorderStyle": "solid",
+            "imageSpacing": 0,
+            "border": 0,
+            "enableBorder": true,
+            "hideTitle": false,
+            "originalColor": false,
+            "noBackground": false,
+            "labelFontSize": 8,
+            "animationConfig": null,
+            "allowFilterMultipleCategory": false,
+            "productCategoryMenuStyle": "menu",
+            "categoryMenuShowDepth": false
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "حصريا",
+            "type": "static",
+            "textColor": "e6007e",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 16,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginTop": 10,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 30,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "خصم 40% على بوديهات كارينا",
+            "type": "static",
+            "textColor": "FF000000",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 18,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 35,
+            "marginTop": 0,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 44,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "type": "image",
+            "wrap": false,
+            "horizontalItem": false,
+            "columns": 5,
+            "layout": "category",
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "separateWidth": 24,
+            "shadow": null,
+            "gradientStyle": false,
+            "items": [
+              {
+                "originalColor": false,
+                "backgroundColor": null,
+                "title": null,
+                "name": null,
+                "keepDefaultTitle": false,
+                "colors": null,
+                "image": "https://carina.eg/cdn/shop/files/Untitled-18copy_1200x.jpg?v=1778577794",
+                "tag": null,
+                "category": "gid://shopify/Collection/473496027376",
+                "showDescription": false,
+                "productType": false,
+                "orderby": null,
+                "order": null,
+                "onSale": false,
+                "featured": false,
+                "showText": false,
+                "description": null,
+                "productListAnimationConfig": null,
+                "link": ""
+              }
+            ],
+            "enableBackground": null,
+            "paddingX": 0,
+            "paddingY": 0,
+            "marginX": 0,
+            "marginY": 0,
+            "itemSize": {
+              "width": 385,
+              "height": 280
+            },
+            "imageBoxFit": "cover",
+            "textAlignment": "topCenter",
+            "radius": 10,
+            "spacing": 12,
+            "imageBorderWidth": 0,
+            "imageBorderStyle": "solid",
+            "imageSpacing": 0,
+            "border": 0,
+            "enableBorder": true,
+            "hideTitle": false,
+            "originalColor": false,
+            "noBackground": false,
+            "labelFontSize": 8,
+            "animationConfig": null,
+            "allowFilterMultipleCategory": false,
+            "productCategoryMenuStyle": "menu",
+            "categoryMenuShowDepth": false
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "حصريا أونلاين",
+            "type": "static",
+            "textColor": "e6007e",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 16,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginTop": 10,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 30,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          },
+          {
+            "isSafeArea": false,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "productType": true,
+            "borderInput": false,
+            "title": "خصم 40% على كولكشن الأطفال",
+            "type": "static",
+            "textColor": "FF000000",
+            "alignment": "center",
+            "fontWeight": 700,
+            "fontSize": 18,
+            "textOpacity": 1,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginBottom": 35,
+            "marginTop": 0,
+            "paddingLeft": 5,
+            "paddingRight": 15,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "height": 44,
+            "rotate": [],
+            "minWidth": 0,
+            "backgroundGradientColor": [],
+            "font": "Cairo",
+            "layout": "header_text"
+          }
+        ],
+        "showOriginalColor": false
+      },
+      "defaultTab": false,
+      "fontFamily": "MaterialIcons",
+      "fullscreen": false,
+      "groupLayout": false,
+      "showOriginalColor": false
+    },
+    {
+      "key": "OFJTqwzncm",
+      "icon": "shopping_cart",
+      "layout": "cart",
+      "defaultTab": false,
+      "fontFamily": "CupertinoIcons",
+      "fullscreen": false,
+      "showOriginalColor": false
+    },
+    {
+      "key": "JygdlsSalqFj",
+      "pos": 400,
+      "icon": "assets/icons/tabs/icon-heartthin.png",
+      "layout": "wishlist",
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": false
+    },
+    {
+      "key": "BSNKUvCXgbkAn",
+      "pos": 409,
+      "icon": "profile_circled",
+      "layout": "profile",
+      "settings": [
+        "wishlist",
+        "language",
+        "order",
+        "privacy",
+        "returnRefund",
+        "callUs"
+      ],
+      "styleItem": "flat",
+      "defaultTab": false,
+      "fontFamily": "CupertinoIcons",
+      "fullscreen": false,
+      "showBackground": false,
+      "showOriginalColor": false
+    }
+  ],
+  "AppBar": {
+    "snap": true,
+    "items": [
+      {
+        "pos": 100,
+        "icon": "map_pin_ellipse",
+        "size": 44,
+        "type": "logo",
+        "image": "https://raw.githubusercontent.com/fluxbuilder/images/main/2025/11/4bb3982ccc74/1762259123196.png",
+        "title": "Your location",
+        "width": 120,
+        "action": "home",
+        "height": 40,
+        "radius": 0,
+        "fontSize": 20,
+        "iconSize": 17,
+        "alignment": "topLeft",
+        "marginTop": 0,
+        "textColor": "ffc2185b",
+        "fontFamily": "CupertinoIcons",
+        "fontWeight": "700",
+        "marginLeft": 100,
+        "paddingTop": 0,
+        "imageBoxFit": "cover",
+        "marginRight": 65,
+        "paddingLeft": 50,
+        "productType": true,
+        "spacingText": 3,
+        "textOpacity": 1,
+        "avatarRadius": 100,
+        "marginBottom": 0,
+        "paddingRight": 0,
+        "paddingBottom": 0,
+        "headerFontSize": 16,
+        "headerFontWeight": "400",
+        "headerTextOpacity": 0.5
+      },
+      {
+        "pos": 100,
+        "icon": "search",
+        "size": 44,
+        "type": "search",
+        "title": "",
+        "action": "search",
+        "radius": 0,
+        "fontSize": 14,
+        "iconSize": 24,
+        "alignment": "center",
+        "iconColor": "FF000000",
+        "marginTop": 7,
+        "fontFamily": "CupertinoIcons",
+        "fontWeight": "400",
+        "marginLeft": 0,
+        "paddingTop": 0,
+        "marginRight": 0,
+        "paddingLeft": 0,
+        "productType": true,
+        "spacingText": 3,
+        "textOpacity": 0.5,
+        "avatarRadius": 100,
+        "marginBottom": 0,
+        "paddingRight": 0,
+        "paddingBottom": 0,
+        "headerFontSize": 16,
+        "headerFontWeight": "400",
+        "headerTextOpacity": 0.5
+      },
+      {
+        "pos": 100,
+        "icon": "bell",
+        "size": 56,
+        "type": "icon",
+        "action": "wishlist",
+        "radius": 0,
+        "fontSize": 16,
+        "iconSize": 24,
+        "alignment": "center",
+        "iconColor": "FF000000",
+        "marginTop": 7,
+        "fontFamily": "CupertinoIcons",
+        "fontWeight": "400",
+        "marginLeft": 0,
+        "paddingTop": 0,
+        "marginRight": 0,
+        "paddingLeft": 0,
+        "productType": true,
+        "spacingText": 3,
+        "textOpacity": 0.5,
+        "avatarRadius": 100,
+        "marginBottom": 0,
+        "paddingRight": 0,
+        "paddingBottom": 0,
+        "headerFontSize": 16,
+        "headerFontWeight": "400",
+        "headerTextOpacity": 0.5
+      }
+    ],
+    "enable": true,
+    "pinned": false,
+    "floating": true,
+    "elevation": 0,
+    "expandedItems": [],
+    "showOnScreens": [],
+    "alwaysShowAppBar": false
+  },
+  "Drawer": {
+    "logo": null,
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "show": true,
+        "type": "category"
+      },
+      {
+        "show": false,
+        "type": "categories"
+      },
+      {
+        "show": false,
+        "type": "cart"
+      },
+      {
+        "show": false,
+        "type": "profile"
+      }
+    ],
+    "enable": true,
+    "filter": 0,
+    "logoDark": null,
+    "safeArea": false,
+    "iconColor": null,
+    "textColor": null,
+    "logoConfig": {
+      "boxFit": "cover",
+      "height": 38,
+      "marginTop": 60,
+      "marginLeft": 5,
+      "marginRight": 0,
+      "marginBottom": 10
+    },
+    "zoomConfig": null,
+    "colorFilter": null,
+    "subDrawerItem": {},
+    "backgroundColor": null,
+    "backgroundImage": null
+  },
+  "Datetime": "2026-06-01T11:57:47.493747",
+  "Dashboard": {
+    "Menus": [
+      {
+        "id": "1787133874213",
+        "title": "كولكشن الشتاء الجديد",
+        "category": "gid://shopify/Collection/412250833136",
+        "children": [
+          {
+            "id": "1787133901666",
+            "title": "توبات جديدة",
+            "category": "gid://shopify/Collection/446234624240",
+            "children": []
+          },
+          {
+            "id": "1787133971784",
+            "title": "بنطلونات و جيبات جديدة",
+            "category": "gid://shopify/Collection/446234657008",
+            "children": []
+          },
+          {
+            "id": "1787134065982",
+            "title": "فساتين جديدة",
+            "category": "gid://shopify/Collection/446619091184",
+            "children": []
+          },
+          {
+            "id": "1787134077930",
+            "title": "ملابس نوم جديدة",
+            "category": "gid://shopify/Collection/446234689776",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1783435008219",
+        "title": "تصفيات الصيف",
+        "category": "gid://shopify/Collection/490093478128",
+        "children": []
+      },
+      {
+        "id": "1783434822694",
+        "title": "الأكثر مبيعًا",
+        "category": "gid://shopify/Collection/482400239856",
+        "children": []
+      },
+      {
+        "id": "1783435680647",
+        "title": "توبات أساسية",
+        "category": "gid://shopify/Collection/417094992112",
+        "children": [
+          {
+            "id": "1783435694645",
+            "title": "أساسيات كارينا",
+            "category": "gid://shopify/Collection/458261594352",
+            "children": [
+              {
+                "id": "1783435706465",
+                "title": "فيسكوز ",
+                "category": "gid://shopify/Collection/458280599792",
+                "children": []
+              },
+              {
+                "id": "1783435709927",
+                "title": "قطن مصري",
+                "category": "gid://shopify/Collection/458280534256",
+                "children": []
+              },
+              {
+                "id": "1783435718177",
+                "title": "مايكروفايبر",
+                "category": "gid://shopify/Collection/458281222384",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783435848608",
+            "title": "توب كت وحمالات",
+            "category": "gid://shopify/Collection/446236229872",
+            "children": []
+          },
+          {
+            "id": "1783435857140",
+            "title": "توب نص كم",
+            "category": "gid://shopify/Collection/446236197104",
+            "children": []
+          },
+          {
+            "id": "1783435865063",
+            "title": "توب قصير",
+            "category": "gid://shopify/Collection/446236295408",
+            "children": []
+          },
+          {
+            "id": "1783435872189",
+            "title": "توب بكم",
+            "category": "gid://shopify/Collection/446236131568",
+            "children": []
+          },
+          {
+            "id": "1783435879605",
+            "title": "بلا درزات",
+            "category": "gid://shopify/Collection/458317463792",
+            "children": []
+          },
+          {
+            "id": "1783435888805",
+            "title": "كارينا  🎀 نوت فاوند",
+            "category": "gid://shopify/Collection/439871701232",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1783463057027",
+        "title": "ملابس",
+        "category": "gid://shopify/Collection/413456269552",
+        "children": [
+          {
+            "id": "1783463073195",
+            "title": "توبات ",
+            "category": "gid://shopify/Collection/404700627184",
+            "children": [
+              {
+                "id": "1783463092645",
+                "title": "تيشرتات",
+                "category": "gid://shopify/Collection/474397704432",
+                "children": []
+              },
+              {
+                "id": "1783463105845",
+                "title": "قمصان",
+                "category": "gid://shopify/Collection/474397769968",
+                "children": []
+              },
+              {
+                "id": "1783463116694",
+                "title": "كيمونو",
+                "category": "gid://shopify/Collection/418975187184",
+                "children": []
+              },
+              {
+                "id": "1783463124696",
+                "title": "جواكت و فيستات",
+                "category": "gid://shopify/Collection/417207779568",
+                "children": []
+              },
+              {
+                "id": "1783463132428",
+                "title": "توبات جيرلي",
+                "category": "gid://shopify/Collection/452598628592",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783463333177",
+            "title": "بنطلونات وجيبات ",
+            "category": "gid://shopify/Collection/404700659952",
+            "children": [
+              {
+                "id": "1783463379225",
+                "title": "بنطلونات",
+                "category": "gid://shopify/Collection/480525123824",
+                "children": []
+              },
+              {
+                "id": "1783463385724",
+                "title": "ليجنز وشورت",
+                "category": "gid://shopify/Collection/480525254896",
+                "children": []
+              },
+              {
+                "id": "1783463393674",
+                "title": "جيبات",
+                "category": "gid://shopify/Collection/480525222128",
+                "children": []
+              },
+              {
+                "id": "1783463400374",
+                "title": "بنطلونات وشورتات جيرلي",
+                "category": "gid://shopify/Collection/452598694128",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1787610138929",
+            "title": "أطقم",
+            "category": "gid://shopify/Collection/486621020400",
+            "children": []
+          },
+          {
+            "id": "1783463494956",
+            "title": "جينز",
+            "category": "gid://shopify/Collection/417207812336",
+            "children": []
+          },
+          {
+            "id": "1783463523615",
+            "title": "فساتين",
+            "category": "gid://shopify/Collection/404704690416",
+            "children": []
+          },
+          {
+            "id": "1783463546904",
+            "title": "ملابس مريحة رياضية",
+            "category": "gid://shopify/Collection/417095024880",
+            "children": [
+              {
+                "id": "1783463576984",
+                "title": "توبات",
+                "category": "gid://shopify/Collection/404705968368",
+                "children": []
+              },
+              {
+                "id": "1783463584651",
+                "title": "بنطلونات",
+                "category": "gid://shopify/Collection/404706033904",
+                "children": []
+              },
+              {
+                "id": "1783463592018",
+                "title": "أطقم",
+                "category": "gid://shopify/Collection/404705935600",
+                "children": []
+              },
+              {
+                "id": "1783463599218",
+                "title": "ملابس رياضية",
+                "category": "gid://shopify/Collection/469246607600",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783463747550",
+            "title": "طقّمي ووّفري",
+            "category": "gid://shopify/Collection/444634890480",
+            "children": []
+          },
+          {
+            "id": "1783463767065",
+            "title": "كارينا  🎀 نوت فاوند",
+            "category": "gid://shopify/Collection/439871701232",
+            "children": []
+          },
+          {
+            "id": "1783435409507",
+            "title": "ملابس البحر",
+            "category": "gid://shopify/Collection/420091986160",
+            "children": [
+              {
+                "id": "1783435425357",
+                "title": "توبات صيفية للبحر",
+                "category": "gid://shopify/Collection/460073304304",
+                "children": []
+              },
+              {
+                "id": "1783435447371",
+                "title": "بنطلونات وجيبات للبحر",
+                "category": "gid://shopify/Collection/460073042160",
+                "children": []
+              },
+              {
+                "id": "1783435457037",
+                "title": "فساتين حيوية للبحر",
+                "category": "gid://shopify/Collection/460072681712",
+                "children": []
+              },
+              {
+                "id": "1783435469054",
+                "title": "كيمونو خفيف للبحر ",
+                "category": "gid://shopify/Collection/460072714480",
+                "children": []
+              },
+              {
+                "id": "1783435479103",
+                "title": "أطقم لنسيم البحر",
+                "category": "gid://shopify/Collection/460073140464",
+                "children": []
+              },
+              {
+                "id": "1783435488886",
+                "title": "إكسسوارات البحر",
+                "category": "gid://shopify/Collection/461334577392",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1783463857091",
+        "title": "ملابس النوم",
+        "category": "gid://shopify/Collection/404701446384",
+        "children": [
+          {
+            "id": "1783463888040",
+            "title": "بيجامات و أرواب",
+            "category": "gid://shopify/Collection/404701511920",
+            "children": []
+          },
+          {
+            "id": "1783463895089",
+            "title": "قمصان النوم",
+            "category": "gid://shopify/Collection/404701413616",
+            "children": []
+          },
+          {
+            "id": "1783463898539",
+            "title": "لانجيري",
+            "category": "gid://shopify/Collection/417097744624",
+            "children": []
+          },
+          {
+            "id": "1783463902472",
+            "title": "أساسيات العروسة",
+            "category": "gid://shopify/Collection/480001032432",
+            "children": []
+          },
+          {
+            "id": "1783463913122",
+            "title": "ملابس نوم جيرلي",
+            "category": "gid://shopify/Collection/456670118128",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1783464137446",
+        "title": "ملابس داخلية",
+        "category": "gid://shopify/Collection/404703903984",
+        "children": [
+          {
+            "id": "1783464167766",
+            "title": "براهات",
+            "category": "gid://shopify/Collection/404704035056",
+            "children": []
+          },
+          {
+            "id": "1783464209914",
+            "title": "بانتيهات",
+            "category": "gid://shopify/Collection/404704100592",
+            "children": [
+              {
+                "id": "1783464234449",
+                "title": "بانتيهات بيكيني ",
+                "category": "gid://shopify/Collection/474444464368",
+                "children": []
+              },
+              {
+                "id": "1783464290662",
+                "title": "بريف ",
+                "category": "gid://shopify/Collection/474444497136",
+                "children": []
+              },
+              {
+                "id": "1783464313961",
+                "title": "بانتيهات بريف كامل",
+                "category": "gid://shopify/Collection/474444562672",
+                "children": []
+              },
+              {
+                "id": "1783464340677",
+                "title": "بانتيهات شورت",
+                "category": "gid://shopify/Collection/480487440624",
+                "children": []
+              },
+              {
+                "id": "1783464366060",
+                "title": "بانتيهات ثونج",
+                "category": "gid://shopify/Collection/480487473392",
+                "children": []
+              },
+              {
+                "id": "1783464395526",
+                "title": "أطقم بانتيهات ",
+                "category": "gid://shopify/Collection/480487506160",
+                "children": []
+              },
+              {
+                "id": "1783464404675",
+                "title": "بانتيهات جيرلي",
+                "category": "gid://shopify/Collection/452598792432",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783464471192",
+            "title": "عبوات موفرة",
+            "category": "gid://shopify/Collection/412524118256",
+            "children": [
+              {
+                "id": "1783464512542",
+                "title": " عبوات موفرة نسائية",
+                "category": "gid://shopify/Collection/480519094512",
+                "children": []
+              },
+              {
+                "id": "1783464524407",
+                "title": "عبوات موفرة جيرلي",
+                "category": "gid://shopify/Collection/480519028976",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783464578672",
+            "title": "كورسيهات",
+            "category": "gid://shopify/Collection/404701741296",
+            "children": []
+          },
+          {
+            "id": "1783464586389",
+            "title": "كومبليزون",
+            "category": "gid://shopify/Collection/411911815408",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1783464729117",
+        "title": "أكسسوارات",
+        "category": "gid://shopify/Collection/404706197744",
+        "children": [
+          {
+            "id": "1783464752054",
+            "title": "شرابات و كولونات",
+            "category": "gid://shopify/Collection/452598825200",
+            "children": [
+              {
+                "id": "1783464770883",
+                "title": "شرابات",
+                "category": "gid://shopify/Collection/476911829232",
+                "children": []
+              },
+              {
+                "id": "1783464783915",
+                "title": "كولونات",
+                "category": "gid://shopify/Collection/476837970160",
+                "children": []
+              },
+              {
+                "id": "1783464789498",
+                "title": "شرابات و كولونات جيرلي",
+                "category": "gid://shopify/Collection/452598825200",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783464809264",
+            "title": "سكارفات",
+            "category": "gid://shopify/Collection/417207976176",
+            "children": []
+          },
+          {
+            "id": "1783464823830",
+            "title": "مُكملات الحجاب",
+            "category": "gid://shopify/Collection/417207943408",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1783464979526",
+        "title": "كارينا هوم & بيوتي",
+        "category": "",
+        "children": [
+          {
+            "id": "1783464994343",
+            "title": "مجموعة الأروماثيرابي",
+            "category": "gid://shopify/Collection/459875451120",
+            "children": []
+          },
+          {
+            "id": "1783465001109",
+            "title": "كارينا بيوتي",
+            "category": "gid://shopify/Collection/417208140016",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "PromotionPages": [
+      {
+        "key": "promotion",
+        "pageTitle": "أكبر الخصومات في مصر",
+        "pageSubtitle": "أفضل القطع بأفضل الأسعار",
+        "cards": [
+          {
+            "title": "تصفيات الصيف! ☀️",
+            "subtitle": "خصم يصل إلى 50%",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image1_app.png?v=1788349779",
+            "collection": "gid://shopify/Collection/490093478128"
+          },
+          {
+            "title": "حصرياً",
+            "subtitle": "خصم حتى 50% على البانتيهات",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image2_app.png?v=1788349779",
+            "collection": "gid://shopify/Collection/490402218224"
+          },
+          {
+            "title": "خصومات التوبات الأساسية!",
+            "subtitle": "اشتري 5 بسعر 2",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
+            "collection": "gid://shopify/Collection/485426299120"
+          },
+          {
+            "title": "حصريا أونلاين",
+            "subtitle": "خصم حتى 30% على التوبات الأساسية",
+            "image": "https://carina.eg/cdn/shop/files/imgi_1_Untitled-zzzcopy_1800x_copy_1400x.jpg?v=1783341152",
+            "collection": "gid://shopify/Collection/473920700656"
+          },
+          {
+            "title": "متفوتيش الفرصة",
+            "subtitle": "خصم حتى 40% على الجيرلي",
+            "image": "https://carina.eg/cdn/shop/files/2026-09-01_150922_copy_800x.jpg?v=1788264692",
+            "collection": "gid://shopify/Collection/485672780016"
+          }
+        ]
+      }
+    ],
+    "Collections": [],
+    "PromoCodePopup": {
+      "enabled": false,
+      "code": "CR5",
+      "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/App_2_.jpg_1.jpg?v=1788086905"
+    },
+    "ProductBadges": {
+      "enabled": true,
+      "badges": [
+        {
+          "image": "https://app.shinecommerce.co/storage/Y2FyaW5hd2Vhci5teXNob3BpZnkuY29t/libraries/BUY2-GET3-2hju9dgUiTz.png",
+          "tag": "B2G3"
+        }
+      ]
+    }
+  }
+}
