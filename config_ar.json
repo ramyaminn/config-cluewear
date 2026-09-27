@@ -565,10 +565,10 @@
     "FontHeader": "Cairo",
     "StickyHeader": true,
     "TabBarConfig": {
-      "color": "27d9027d",
+      "color": "279BBF70",
       "enable": true,
       "iconSize": 20,
-      "colorCart": "ffd9027d",
+      "colorCart": "ff9BBF70",
       "colorIcon": "ff000000",
       "marginTop": 0,
       "isSafeArea": false,
@@ -618,7 +618,7 @@
         "horizontalPadding": 0,
         "distanceFromCenter": 25
       },
-      "colorActiveIcon": "ffd9027d",
+      "colorActiveIcon": "ff9BBF70",
       "alwaysShowTabBar": false,
       "radiusBottomLeft": 12,
       "showFloatingClip": true,
