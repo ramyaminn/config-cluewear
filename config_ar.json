@@ -1249,8 +1249,7 @@
         "language",
         "order",
         "privacy",
-        "returnRefund",
-        "callUs"
+        "returnRefund"
       ],
       "styleItem": "flat",
       "defaultTab": false,
