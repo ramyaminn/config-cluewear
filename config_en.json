@@ -1646,6 +1646,69 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1790601055011",
+        "title": "LOUNGEWEAR",
+        "category": "gid://shopify/Collection/464562585908",
+        "children": []
+      },
+      {
+        "id": "1790601105126",
+        "title": "ESSENTIALS",
+        "category": "gid://shopify/Collection/479542935860",
+        "children": [
+          {
+            "id": "1790601151540",
+            "title": "Socks & Tights",
+            "category": "gid://shopify/Collection/476368830772",
+            "children": []
+          },
+          {
+            "id": "1790601152657",
+            "title": "Underwear",
+            "category": "gid://shopify/Collection/478276387124",
+            "children": []
+          },
+          {
+            "id": "1790601153607",
+            "title": "Bodysuits",
+            "category": "gid://shopify/Collection/477783753012",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1790601256536",
+        "title": "ACCESSORIES",
+        "category": "gid://shopify/Collection/440937709876",
+        "children": [
+          {
+            "id": "1790601285534",
+            "title": "Scarves",
+            "category": "gid://shopify/Collection/478276518196",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1790601261669",
+        "title": "HOMEWEAR",
+        "category": "gid://shopify/Collection/479577899316",
+        "children": [
+          {
+            "id": "1790601398346",
+            "title": "UNDERWEAR",
+            "category": "gid://shopify/Collection/478276387124",
+            "children": []
+          },
+          {
+            "id": "1790601399329",
+            "title": "PYJAMAS",
+            "category": "gid://shopify/Collection/479501812020",
+            "children": []
+          }
+        ]
       }
     ],
     "PromotionPages": [
