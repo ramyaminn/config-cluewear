@@ -1421,421 +1421,51 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1787133874213",
-        "title": "كولكشن الشتاء الجديد",
-        "category": "gid://shopify/Collection/412250833136",
+        "id": "1790598898372",
+        "title": "New This Week",
+        "category": "gid://shopify/Collection/478879940916",
         "children": [
           {
-            "id": "1787133901666",
-            "title": "توبات جديدة",
-            "category": "gid://shopify/Collection/446234624240",
+            "id": "1790598996433",
+            "title": "New Collection",
+            "category": "gid://shopify/Collection/478879940916",
             "children": []
           },
           {
-            "id": "1787133971784",
-            "title": "بنطلونات و جيبات جديدة",
-            "category": "gid://shopify/Collection/446234657008",
-            "children": []
-          },
-          {
-            "id": "1787134065982",
-            "title": "فساتين جديدة",
-            "category": "gid://shopify/Collection/446619091184",
-            "children": []
-          },
-          {
-            "id": "1787134077930",
-            "title": "ملابس نوم جديدة",
-            "category": "gid://shopify/Collection/446234689776",
+            "id": "1790599011665",
+            "title": "Best Sellers",
+            "category": "gid://shopify/Collection/449646657844",
             "children": []
           }
         ]
       },
       {
-        "id": "1783435008219",
-        "title": "تصفيات الصيف",
-        "category": "gid://shopify/Collection/490093478128",
-        "children": []
-      },
-      {
-        "id": "1783434822694",
-        "title": "الأكثر مبيعًا",
-        "category": "gid://shopify/Collection/482400239856",
-        "children": []
-      },
-      {
-        "id": "1783435680647",
-        "title": "توبات أساسية",
-        "category": "gid://shopify/Collection/417094992112",
+        "id": "1790599059946",
+        "title": "BEACHWEAR",
+        "category": "gid://shopify/Collection/472883560756",
         "children": [
           {
-            "id": "1783435694645",
-            "title": "أساسيات كارينا",
-            "category": "gid://shopify/Collection/458261594352",
-            "children": [
-              {
-                "id": "1783435706465",
-                "title": "فيسكوز ",
-                "category": "gid://shopify/Collection/458280599792",
-                "children": []
-              },
-              {
-                "id": "1783435709927",
-                "title": "قطن مصري",
-                "category": "gid://shopify/Collection/458280534256",
-                "children": []
-              },
-              {
-                "id": "1783435718177",
-                "title": "مايكروفايبر",
-                "category": "gid://shopify/Collection/458281222384",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783435848608",
-            "title": "توب كت وحمالات",
-            "category": "gid://shopify/Collection/446236229872",
+            "id": "1790599181044",
+            "title": "Beach Dresses",
+            "category": "gid://shopify/Collection/479199691060",
             "children": []
           },
           {
-            "id": "1783435857140",
-            "title": "توب نص كم",
-            "category": "gid://shopify/Collection/446236197104",
+            "id": "1790599196076",
+            "title": "Cover-Ups",
+            "category": "gid://shopify/Collection/479544443188",
             "children": []
           },
           {
-            "id": "1783435865063",
-            "title": "توب قصير",
-            "category": "gid://shopify/Collection/446236295408",
+            "id": "1790599207259",
+            "title": "Beach Sets",
+            "category": "gid://shopify/Collection/479544574260",
             "children": []
           },
           {
-            "id": "1783435872189",
-            "title": "توب بكم",
-            "category": "gid://shopify/Collection/446236131568",
-            "children": []
-          },
-          {
-            "id": "1783435879605",
-            "title": "بلا درزات",
-            "category": "gid://shopify/Collection/458317463792",
-            "children": []
-          },
-          {
-            "id": "1783435888805",
-            "title": "كارينا  🎀 نوت فاوند",
-            "category": "gid://shopify/Collection/439871701232",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1783463057027",
-        "title": "ملابس",
-        "category": "gid://shopify/Collection/413456269552",
-        "children": [
-          {
-            "id": "1783463073195",
-            "title": "توبات ",
-            "category": "gid://shopify/Collection/404700627184",
-            "children": [
-              {
-                "id": "1783463092645",
-                "title": "تيشرتات",
-                "category": "gid://shopify/Collection/474397704432",
-                "children": []
-              },
-              {
-                "id": "1783463105845",
-                "title": "قمصان",
-                "category": "gid://shopify/Collection/474397769968",
-                "children": []
-              },
-              {
-                "id": "1783463116694",
-                "title": "كيمونو",
-                "category": "gid://shopify/Collection/418975187184",
-                "children": []
-              },
-              {
-                "id": "1783463124696",
-                "title": "جواكت و فيستات",
-                "category": "gid://shopify/Collection/417207779568",
-                "children": []
-              },
-              {
-                "id": "1783463132428",
-                "title": "توبات جيرلي",
-                "category": "gid://shopify/Collection/452598628592",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783463333177",
-            "title": "بنطلونات وجيبات ",
-            "category": "gid://shopify/Collection/404700659952",
-            "children": [
-              {
-                "id": "1783463379225",
-                "title": "بنطلونات",
-                "category": "gid://shopify/Collection/480525123824",
-                "children": []
-              },
-              {
-                "id": "1783463385724",
-                "title": "ليجنز وشورت",
-                "category": "gid://shopify/Collection/480525254896",
-                "children": []
-              },
-              {
-                "id": "1783463393674",
-                "title": "جيبات",
-                "category": "gid://shopify/Collection/480525222128",
-                "children": []
-              },
-              {
-                "id": "1783463400374",
-                "title": "بنطلونات وشورتات جيرلي",
-                "category": "gid://shopify/Collection/452598694128",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1787610138929",
-            "title": "أطقم",
-            "category": "gid://shopify/Collection/486621020400",
-            "children": []
-          },
-          {
-            "id": "1783463494956",
-            "title": "جينز",
-            "category": "gid://shopify/Collection/417207812336",
-            "children": []
-          },
-          {
-            "id": "1783463523615",
-            "title": "فساتين",
-            "category": "gid://shopify/Collection/404704690416",
-            "children": []
-          },
-          {
-            "id": "1783463546904",
-            "title": "ملابس مريحة رياضية",
-            "category": "gid://shopify/Collection/417095024880",
-            "children": [
-              {
-                "id": "1783463576984",
-                "title": "توبات",
-                "category": "gid://shopify/Collection/404705968368",
-                "children": []
-              },
-              {
-                "id": "1783463584651",
-                "title": "بنطلونات",
-                "category": "gid://shopify/Collection/404706033904",
-                "children": []
-              },
-              {
-                "id": "1783463592018",
-                "title": "أطقم",
-                "category": "gid://shopify/Collection/404705935600",
-                "children": []
-              },
-              {
-                "id": "1783463599218",
-                "title": "ملابس رياضية",
-                "category": "gid://shopify/Collection/469246607600",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783463747550",
-            "title": "طقّمي ووّفري",
-            "category": "gid://shopify/Collection/444634890480",
-            "children": []
-          },
-          {
-            "id": "1783463767065",
-            "title": "كارينا  🎀 نوت فاوند",
-            "category": "gid://shopify/Collection/439871701232",
-            "children": []
-          },
-          {
-            "id": "1783435409507",
-            "title": "ملابس البحر",
-            "category": "gid://shopify/Collection/420091986160",
-            "children": [
-              {
-                "id": "1783435425357",
-                "title": "توبات صيفية للبحر",
-                "category": "gid://shopify/Collection/460073304304",
-                "children": []
-              },
-              {
-                "id": "1783435447371",
-                "title": "بنطلونات وجيبات للبحر",
-                "category": "gid://shopify/Collection/460073042160",
-                "children": []
-              },
-              {
-                "id": "1783435457037",
-                "title": "فساتين حيوية للبحر",
-                "category": "gid://shopify/Collection/460072681712",
-                "children": []
-              },
-              {
-                "id": "1783435469054",
-                "title": "كيمونو خفيف للبحر ",
-                "category": "gid://shopify/Collection/460072714480",
-                "children": []
-              },
-              {
-                "id": "1783435479103",
-                "title": "أطقم لنسيم البحر",
-                "category": "gid://shopify/Collection/460073140464",
-                "children": []
-              },
-              {
-                "id": "1783435488886",
-                "title": "إكسسوارات البحر",
-                "category": "gid://shopify/Collection/461334577392",
-                "children": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "1783463857091",
-        "title": "ملابس النوم",
-        "category": "gid://shopify/Collection/404701446384",
-        "children": [
-          {
-            "id": "1783463888040",
-            "title": "بيجامات و أرواب",
-            "category": "gid://shopify/Collection/404701511920",
-            "children": []
-          },
-          {
-            "id": "1783463895089",
-            "title": "قمصان النوم",
-            "category": "gid://shopify/Collection/404701413616",
-            "children": []
-          },
-          {
-            "id": "1783463898539",
-            "title": "لانجيري",
-            "category": "gid://shopify/Collection/417097744624",
-            "children": []
-          },
-          {
-            "id": "1783463902472",
-            "title": "أساسيات العروسة",
-            "category": "gid://shopify/Collection/480001032432",
-            "children": []
-          },
-          {
-            "id": "1783463913122",
-            "title": "ملابس نوم جيرلي",
-            "category": "gid://shopify/Collection/456670118128",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1783464137446",
-        "title": "ملابس داخلية",
-        "category": "gid://shopify/Collection/404703903984",
-        "children": [
-          {
-            "id": "1783464167766",
-            "title": "براهات",
-            "category": "gid://shopify/Collection/404704035056",
-            "children": []
-          },
-          {
-            "id": "1783464209914",
-            "title": "بانتيهات",
-            "category": "gid://shopify/Collection/404704100592",
-            "children": [
-              {
-                "id": "1783464234449",
-                "title": "بانتيهات بيكيني ",
-                "category": "gid://shopify/Collection/474444464368",
-                "children": []
-              },
-              {
-                "id": "1783464290662",
-                "title": "بريف ",
-                "category": "gid://shopify/Collection/474444497136",
-                "children": []
-              },
-              {
-                "id": "1783464313961",
-                "title": "بانتيهات بريف كامل",
-                "category": "gid://shopify/Collection/474444562672",
-                "children": []
-              },
-              {
-                "id": "1783464340677",
-                "title": "بانتيهات شورت",
-                "category": "gid://shopify/Collection/480487440624",
-                "children": []
-              },
-              {
-                "id": "1783464366060",
-                "title": "بانتيهات ثونج",
-                "category": "gid://shopify/Collection/480487473392",
-                "children": []
-              },
-              {
-                "id": "1783464395526",
-                "title": "أطقم بانتيهات ",
-                "category": "gid://shopify/Collection/480487506160",
-                "children": []
-              },
-              {
-                "id": "1783464404675",
-                "title": "بانتيهات جيرلي",
-                "category": "gid://shopify/Collection/452598792432",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783464471192",
-            "title": "عبوات موفرة",
-            "category": "gid://shopify/Collection/412524118256",
-            "children": [
-              {
-                "id": "1783464512542",
-                "title": " عبوات موفرة نسائية",
-                "category": "gid://shopify/Collection/480519094512",
-                "children": []
-              },
-              {
-                "id": "1783464524407",
-                "title": "عبوات موفرة جيرلي",
-                "category": "gid://shopify/Collection/480519028976",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783464578672",
-            "title": "كورسيهات",
-            "category": "gid://shopify/Collection/404701741296",
-            "children": []
-          },
-          {
-            "id": "1783464586389",
-            "title": "كومبليزون",
-            "category": "gid://shopify/Collection/411911815408",
+            "id": "1790599219709",
+            "title": "Beach Pants",
+            "category": "gid://shopify/Collection/479594348852",
             "children": []
           }
         ]
