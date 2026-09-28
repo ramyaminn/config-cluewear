@@ -1578,6 +1578,74 @@
         "title": "DENIM",
         "category": "gid://shopify/Collection/479594873140",
         "children": []
+      },
+      {
+        "id": "1790600323389",
+        "title": "DRESSES",
+        "category": "gid://shopify/Collection/440937546036",
+        "children": [
+          {
+            "id": "1790600327155",
+            "title": "Maxi Dresses",
+            "category": "gid://shopify/Collection/479544738100",
+            "children": []
+          },
+          {
+            "id": "1790600328455",
+            "title": "Midi Dresses",
+            "category": "gid://shopify/Collection/479544770868",
+            "children": []
+          },
+          {
+            "id": "1790600329421",
+            "title": "Abayas",
+            "category": "gid://shopify/Collection/479544410420",
+            "children": []
+          },
+          {
+            "id": "1790600330438",
+            "title": "Kimonos",
+            "category": "gid://shopify/Collection/440937087284",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1790600761939",
+        "title": "OUTERWEAR",
+        "category": "gid://shopify/Collection/479542903092",
+        "children": [
+          {
+            "id": "1790600788237",
+            "title": "Kimonos",
+            "category": "gid://shopify/Collection/440937087284",
+            "children": []
+          },
+          {
+            "id": "1790600789205",
+            "title": "Cardigans",
+            "category": "gid://shopify/Collection/479544279348",
+            "children": []
+          },
+          {
+            "id": "1790600790170",
+            "title": "Jackets & Coats",
+            "category": "gid://shopify/Collection/440937120052",
+            "children": []
+          },
+          {
+            "id": "1790600791087",
+            "title": "Blazers",
+            "category": "gid://shopify/Collection/479544475956",
+            "children": []
+          },
+          {
+            "id": "1790600792687",
+            "title": "Ponchos",
+            "category": "gid://shopify/Collection/462586118452",
+            "children": []
+          }
+        ]
       }
     ],
     "PromotionPages": [
