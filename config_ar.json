@@ -1839,69 +1839,6 @@
             "children": []
           }
         ]
-      },
-      {
-        "id": "1783464729117",
-        "title": "أكسسوارات",
-        "category": "gid://shopify/Collection/404706197744",
-        "children": [
-          {
-            "id": "1783464752054",
-            "title": "شرابات و كولونات",
-            "category": "gid://shopify/Collection/452598825200",
-            "children": [
-              {
-                "id": "1783464770883",
-                "title": "شرابات",
-                "category": "gid://shopify/Collection/476911829232",
-                "children": []
-              },
-              {
-                "id": "1783464783915",
-                "title": "كولونات",
-                "category": "gid://shopify/Collection/476837970160",
-                "children": []
-              },
-              {
-                "id": "1783464789498",
-                "title": "شرابات و كولونات جيرلي",
-                "category": "gid://shopify/Collection/452598825200",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783464809264",
-            "title": "سكارفات",
-            "category": "gid://shopify/Collection/417207976176",
-            "children": []
-          },
-          {
-            "id": "1783464823830",
-            "title": "مُكملات الحجاب",
-            "category": "gid://shopify/Collection/417207943408",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1783464979526",
-        "title": "كارينا هوم & بيوتي",
-        "category": "",
-        "children": [
-          {
-            "id": "1783464994343",
-            "title": "مجموعة الأروماثيرابي",
-            "category": "gid://shopify/Collection/459875451120",
-            "children": []
-          },
-          {
-            "id": "1783465001109",
-            "title": "كارينا بيوتي",
-            "category": "gid://shopify/Collection/417208140016",
-            "children": []
-          }
-        ]
       }
     ],
     "PromotionPages": [
