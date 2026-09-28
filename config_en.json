@@ -1541,6 +1541,43 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1790599974453",
+        "title": "BOTTOMS",
+        "category": "gid://shopify/Collection/440937316660",
+        "children": [
+          {
+            "id": "1790600039667",
+            "title": "Pants ",
+            "category": "gid://shopify/Collection/479544246580",
+            "children": []
+          },
+          {
+            "id": "1790600041316",
+            "title": "Shorts & Skirts",
+            "category": "gid://shopify/Collection/479544607028",
+            "children": []
+          },
+          {
+            "id": "1790600042417",
+            "title": "Sweatpants",
+            "category": "gid://shopify/Collection/479544312116",
+            "children": []
+          },
+          {
+            "id": "1790600043382",
+            "title": "Denim Pants",
+            "category": "gid://shopify/Collection/479594840372",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1790600211143",
+        "title": "DENIM",
+        "category": "gid://shopify/Collection/479594873140",
+        "children": []
       }
     ],
     "PromotionPages": [
