@@ -1445,8 +1445,15 @@
         ]
       },
       {
+        "id": "1790599422525",
+        "title": "BUNDLE OFFERS",
+        "category": "gid://shopify/Collection/479544344884",
+        "image": "https://clue.eg/cdn/shop/collections/Untitled_design_2.png?crop=center&height=78&v=1786130624&width=78",
+        "children": []
+      },
+      {
         "id": "1790599059946",
-        "title": "BEACHWEAR",
+        "title": "JACKETS",
         "category": "gid://shopify/Collection/472883560756",
         "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_10_62194f47-06d0-42e3-b1d3-135aa35f5c73.png?crop=center&height=78&v=1786449279&width=78",
         "children": [
@@ -1477,18 +1484,42 @@
         ]
       },
       {
-        "id": "1790599422525",
-        "title": "BUNDLE OFFERS",
-        "category": "gid://shopify/Collection/479544344884",
-        "image": "https://clue.eg/cdn/shop/collections/Untitled_design_2.png?crop=center&height=78&v=1786130624&width=78",
-        "children": []
-      },
-      {
-        "id": "1790599469323",
-        "title": "SALE",
-        "category": "gid://shopify/Collection/479542870324",
-        "image": "https://clue.eg/cdn/shop/collections/50_13.png?crop=center&height=78&v=1787167909&width=78",
-        "children": []
+        "id": "1790600761939",
+        "title": "OUTERWEAR",
+        "category": "gid://shopify/Collection/479542903092",
+        "image": "https://clue.eg/cdn/shop/files/DSC01812_5b165980-77a6-438c-9d2b-06d541b68956.jpg?crop=center&height=78&v=1788107319&width=78",
+        "children": [
+          {
+            "id": "1790600788237",
+            "title": "Kimonos",
+            "category": "gid://shopify/Collection/440937087284",
+            "children": []
+          },
+          {
+            "id": "1790600789205",
+            "title": "Cardigans",
+            "category": "gid://shopify/Collection/479544279348",
+            "children": []
+          },
+          {
+            "id": "1790600790170",
+            "title": "Jackets & Coats",
+            "category": "gid://shopify/Collection/440937120052",
+            "children": []
+          },
+          {
+            "id": "1790600791087",
+            "title": "Blazers",
+            "category": "gid://shopify/Collection/479544475956",
+            "children": []
+          },
+          {
+            "id": "1790600792687",
+            "title": "Ponchos",
+            "category": "gid://shopify/Collection/462586118452",
+            "children": []
+          }
+        ]
       },
       {
         "id": "1790599514071",
@@ -1547,6 +1578,13 @@
         ]
       },
       {
+        "id": "1790600211143",
+        "title": "DENIM",
+        "category": "gid://shopify/Collection/479594873140",
+        "image": "https://clue.eg/cdn/shop/collections/50_11.png?crop=center&height=78&v=1786535327&width=78",
+        "children": []
+      },
+      {
         "id": "1790599974453",
         "title": "BOTTOMS",
         "category": "gid://shopify/Collection/440937316660",
@@ -1577,13 +1615,6 @@
             "children": []
           }
         ]
-      },
-      {
-        "id": "1790600211143",
-        "title": "DENIM",
-        "category": "gid://shopify/Collection/479594873140",
-        "image": "https://clue.eg/cdn/shop/collections/50_11.png?crop=center&height=78&v=1786535327&width=78",
-        "children": []
       },
       {
         "id": "1790600323389",
@@ -1618,49 +1649,24 @@
         ]
       },
       {
-        "id": "1790600761939",
-        "title": "OUTERWEAR",
-        "category": "gid://shopify/Collection/479542903092",
-        "image": "https://clue.eg/cdn/shop/files/DSC01812_5b165980-77a6-438c-9d2b-06d541b68956.jpg?crop=center&height=78&v=1788107319&width=78",
+        "id": "1790601261669",
+        "title": "HOMEWEAR",
+        "category": "gid://shopify/Collection/479577899316",
+        "image": "https://clue.eg/cdn/shop/collections/50_2.png?crop=center&height=78&v=1786451033&width=78",
         "children": [
           {
-            "id": "1790600788237",
-            "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
+            "id": "1790601398346",
+            "title": "UNDERWEAR",
+            "category": "gid://shopify/Collection/478276387124",
             "children": []
           },
           {
-            "id": "1790600789205",
-            "title": "Cardigans",
-            "category": "gid://shopify/Collection/479544279348",
-            "children": []
-          },
-          {
-            "id": "1790600790170",
-            "title": "Jackets & Coats",
-            "category": "gid://shopify/Collection/440937120052",
-            "children": []
-          },
-          {
-            "id": "1790600791087",
-            "title": "Blazers",
-            "category": "gid://shopify/Collection/479544475956",
-            "children": []
-          },
-          {
-            "id": "1790600792687",
-            "title": "Ponchos",
-            "category": "gid://shopify/Collection/462586118452",
+            "id": "1790601399329",
+            "title": "PYJAMAS",
+            "category": "gid://shopify/Collection/479501812020",
             "children": []
           }
         ]
-      },
-      {
-        "id": "1790601055011",
-        "title": "LOUNGEWEAR",
-        "category": "gid://shopify/Collection/464562585908",
-        "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_6.png?crop=center&height=78&v=1786229863&width=78",
-        "children": []
       },
       {
         "id": "1790601105126",
@@ -1698,26 +1704,6 @@
             "id": "1790601285534",
             "title": "Scarves",
             "category": "gid://shopify/Collection/478276518196",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1790601261669",
-        "title": "HOMEWEAR",
-        "category": "gid://shopify/Collection/479577899316",
-        "image": "https://clue.eg/cdn/shop/collections/50_2.png?crop=center&height=78&v=1786451033&width=78",
-        "children": [
-          {
-            "id": "1790601398346",
-            "title": "UNDERWEAR",
-            "category": "gid://shopify/Collection/478276387124",
-            "children": []
-          },
-          {
-            "id": "1790601399329",
-            "title": "PYJAMAS",
-            "category": "gid://shopify/Collection/479501812020",
             "children": []
           }
         ]
