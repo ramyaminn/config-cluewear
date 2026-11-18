@@ -1421,298 +1421,341 @@
     "Menus": [
       {
         "id": "1790598898372",
-        "title": "New This Week",
-        "category": "gid://shopify/Collection/478879940916",
-        "image": "https://clue.eg/cdn/shop/collections/VOLUME_COLLECTION_CARDS_3.png?crop=center&height=78&v=1786130906&width=78",
-        "children": [
-          {
-            "id": "1790598996433",
-            "title": "New Collection",
-            "category": "gid://shopify/Collection/478879940916",
-            "children": []
-          },
-          {
-            "id": "1790599011665",
-            "title": "Best Sellers",
-            "category": "gid://shopify/Collection/449646657844",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1790599059946",
-        "title": "BEACHWEAR",
-        "category": "gid://shopify/Collection/472883560756",
-        "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_10_62194f47-06d0-42e3-b1d3-135aa35f5c73.png?crop=center&height=78&v=1786449279&width=78",
-        "children": [
-          {
-            "id": "1790599181044",
-            "title": "Beach Dresses",
-            "category": "gid://shopify/Collection/479199691060",
-            "children": []
-          },
-          {
-            "id": "1790599196076",
-            "title": "Cover-Ups",
-            "category": "gid://shopify/Collection/479544443188",
-            "children": []
-          },
-          {
-            "id": "1790599207259",
-            "title": "Beach Sets",
-            "category": "gid://shopify/Collection/479544574260",
-            "children": []
-          },
-          {
-            "id": "1790599219709",
-            "title": "Beach Pants",
-            "category": "gid://shopify/Collection/479594348852",
-            "children": []
-          }
-        ]
+        "title": "وصل حديثاً",
+        "category": "gid://shopify/Collection/478879940916"
       },
       {
         "id": "1790599422525",
-        "title": "BUNDLE OFFERS",
-        "category": "gid://shopify/Collection/479544344884",
-        "image": "https://clue.eg/cdn/shop/collections/Untitled_design_2.png?crop=center&height=78&v=1786130624&width=78",
+        "title": "القطعة التانية مجاناً",
+        "category": "gid://shopify/Collection/480182632756",
         "children": []
       },
       {
-        "id": "1790599469323",
-        "title": "SALE",
-        "category": "gid://shopify/Collection/479542870324",
-        "image": "https://clue.eg/cdn/shop/collections/50_13.png?crop=center&height=78&v=1787167909&width=78",
+        "id": "1790599522525",
+        "title": "القطعة التانية بخصم 70%",
+        "category": "gid://shopify/Collection/480141672756",
         "children": []
       },
       {
         "id": "1790599514071",
-        "title": "TOPS",
+        "title": "توبات",
         "category": "gid://shopify/Collection/440936923444",
         "image": "https://clue.eg/cdn/shop/collections/18688_2.png?crop=center&height=78&v=1784137197&width=78",
         "children": [
           {
-            "id": "1790599548687",
-            "title": "Shirts",
-            "category": "gid://shopify/Collection/440936956212",
-            "children": []
-          },
-          {
-            "id": "1790599599769",
-            "title": "Blouses",
-            "category": "gid://shopify/Collection/479544213812",
-            "children": []
-          },
-          {
-            "id": "1790599606685",
-            "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
-            "children": []
-          },
-          {
-            "id": "1790599614751",
-            "title": "Vests",
-            "category": "gid://shopify/Collection/479544377652",
-            "children": []
-          },
-          {
-            "id": "1790599619268",
-            "title": "T-Shirts",
-            "category": "gid://shopify/Collection/440937021748",
-            "children": []
-          },
-          {
-            "id": "1790599750449",
-            "title": "Bodysuits",
-            "category": "gid://shopify/Collection/477783753012",
-            "children": []
-          },
-          {
-            "id": "1790599758680",
-            "title": "Sweatshirts & Hoodies",
-            "category": "gid://shopify/Collection/462585921844",
+            "id": "1790599548787",
+            "title": "جميع توبات",
+            "category": "gid://shopify/Collection/479888769332",
             "children": []
           },
           {
             "id": "1790599771696",
-            "title": "Pullovers",
-            "category": "gid://shopify/Collection/479544639796",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1790599974453",
-        "title": "BOTTOMS",
-        "category": "gid://shopify/Collection/440937316660",
-        "image": "https://clue.eg/cdn/shop/collections/Trending_Collections_1.png?crop=center&height=78&v=1784137582&width=78",
-        "children": [
-          {
-            "id": "1790600039667",
-            "title": "Pants ",
-            "category": "gid://shopify/Collection/479544246580",
+            "title": "بلوفرات",
+            "category": "gid://shopify/Collection/479889162548",
             "children": []
           },
           {
-            "id": "1790600041316",
-            "title": "Shorts & Skirts",
-            "category": "gid://shopify/Collection/479544607028",
+            "id": "1790599548687",
+            "title": "قمصان",
+            "category": "gid://shopify/Collection/479889031476",
             "children": []
           },
           {
-            "id": "1790600042417",
-            "title": "Sweatpants",
-            "category": "gid://shopify/Collection/479544312116",
+            "id": "1790599758680",
+            "title": "سويت شيرتات",
+            "category": "gid://shopify/Collection/479889195316",
             "children": []
           },
           {
-            "id": "1790600043382",
-            "title": "Denim Pants",
-            "category": "gid://shopify/Collection/479594840372",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1790600211143",
-        "title": "DENIM",
-        "category": "gid://shopify/Collection/479594873140",
-        "image": "https://clue.eg/cdn/shop/collections/50_11.png?crop=center&height=78&v=1786535327&width=78",
-        "children": []
-      },
-      {
-        "id": "1790600323389",
-        "title": "DRESSES",
-        "category": "gid://shopify/Collection/440937546036",
-        "image": "https://clue.eg/cdn/shop/collections/18552_1.png?crop=center&height=78&v=1784131373&width=78",
-        "children": [
-          {
-            "id": "1790600327155",
-            "title": "Maxi Dresses",
-            "category": "gid://shopify/Collection/479544738100",
+            "id": "1790599750449",
+            "title": "بوديهات",
+            "category": "gid://shopify/Collection/479889129780",
             "children": []
           },
           {
-            "id": "1790600328455",
-            "title": "Midi Dresses",
-            "category": "gid://shopify/Collection/479544770868",
+            "id": "1790599599769",
+            "title": "بلوزات",
+            "category": "gid://shopify/Collection/479889064244",
             "children": []
           },
           {
-            "id": "1790600329421",
-            "title": "Abayas",
-            "category": "gid://shopify/Collection/479544410420",
-            "children": []
-          },
-          {
-            "id": "1790600330438",
-            "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
+            "id": "1790599619268",
+            "title": "تيشيرتات",
+            "category": "gid://shopify/Collection/479889097012",
             "children": []
           }
         ]
       },
       {
         "id": "1790600761939",
-        "title": "OUTERWEAR",
+        "title": "جاكيتات وكيمونو",
         "category": "gid://shopify/Collection/479542903092",
         "image": "https://clue.eg/cdn/shop/files/DSC01812_5b165980-77a6-438c-9d2b-06d541b68956.jpg?crop=center&height=78&v=1788107319&width=78",
         "children": [
           {
-            "id": "1790600788237",
-            "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
-            "children": []
-          },
-          {
-            "id": "1790600789205",
-            "title": "Cardigans",
-            "category": "gid://shopify/Collection/479544279348",
+            "id": "1790600788337",
+            "title": "جميع جاكيتات وكيمونو",
+            "category": "gid://shopify/Collection/479888802100",
             "children": []
           },
           {
             "id": "1790600790170",
-            "title": "Jackets & Coats",
-            "category": "gid://shopify/Collection/440937120052",
+            "title": "جاكيتات ومعاطف",
+            "category": "gid://shopify/Collection/479889359156",
             "children": []
           },
           {
-            "id": "1790600791087",
-            "title": "Blazers",
-            "category": "gid://shopify/Collection/479544475956",
+            "id": "1790600789205",
+            "title": "كارديجان",
+            "category": "gid://shopify/Collection/479889326388",
             "children": []
           },
           {
             "id": "1790600792687",
-            "title": "Ponchos",
-            "category": "gid://shopify/Collection/462586118452",
+            "title": "بونشو",
+            "category": "gid://shopify/Collection/479889457460",
+            "children": []
+          },
+          {
+            "id": "1790600788237",
+            "title": "كيمونو",
+            "category": "gid://shopify/Collection/479889293620",
+            "children": []
+          },
+          {
+            "id": "1790600791087",
+            "title": "بليزرات",
+            "category": "gid://shopify/Collection/479889424692",
+            "children": []
+          },
+          {
+            "id": "1790600791987",
+            "title": "فيستات",
+            "category": "gid://shopify/Collection/479889391924",
             "children": []
           }
         ]
       },
       {
-        "id": "1790601055011",
-        "title": "LOUNGEWEAR",
-        "category": "gid://shopify/Collection/464562585908",
-        "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_6.png?crop=center&height=78&v=1786229863&width=78",
-        "children": []
-      },
-      {
-        "id": "1790601105126",
-        "title": "ESSENTIALS",
-        "category": "gid://shopify/Collection/479542935860",
-        "image": "https://clue.eg/cdn/shop/collections/50_1.png?crop=center&height=78&v=1786450775&width=78",
+        "id": "1790599974453",
+        "title": "بناطيل وجيبات",
+        "category": "gid://shopify/Collection/440937316660",
         "children": [
           {
-            "id": "1790601151540",
-            "title": "Socks & Tights",
-            "category": "gid://shopify/Collection/476368830772",
+            "id": "1790600039767",
+            "title": "جميع بناطيل وجيبات",
+            "category": "gid://shopify/Collection/479888834868",
             "children": []
           },
           {
-            "id": "1790601152657",
-            "title": "Underwear",
-            "category": "gid://shopify/Collection/478276387124",
+            "id": "1790600039667",
+            "title": "بناطيل ",
+            "category": "gid://shopify/Collection/479889490228",
             "children": []
           },
           {
-            "id": "1790601153607",
-            "title": "Bodysuits",
-            "category": "gid://shopify/Collection/477783753012",
+            "id": "1790600036667",
+            "title": "جينز ",
+            "category": "gid://shopify/Collection/479889522996",
+            "children": []
+          },
+          {
+            "id": "1790600041316",
+            "title": "جيبات",
+            "category": "gid://shopify/Collection/479889555764",
+            "children": []
+          },
+          {
+            "id": "1790600043316",
+            "title": "شورتات",
+            "category": "gid://shopify/Collection/479889588532",
+            "children": []
+          },
+          {
+            "id": "1790600043382",
+            "title": "ليجن",
+            "category": "gid://shopify/Collection/479889621300",
+            "children": []
+          },
+          {
+            "id": "1790600042417",
+            "title": "بناطيل سويت",
+            "category": "gid://shopify/Collection/479889654068",
             "children": []
           }
         ]
       },
       {
-        "id": "1790601256536",
-        "title": "ACCESSORIES",
-        "category": "gid://shopify/Collection/440937709876",
-        "image": "https://clue.eg/cdn/shop/collections/Accessories.png?crop=center&height=78&v=1786130788&width=78",
+        "id": "1790600323389",
+        "title": "فساتين وأطقم",
+        "category": "gid://shopify/Collection/440937546036",
         "children": [
           {
-            "id": "1790601285534",
-            "title": "Scarves",
-            "category": "gid://shopify/Collection/478276518196",
+            "id": "1790600327355",
+            "title": "جميع فساتين وأطقم",
+            "category": "gid://shopify/Collection/480181682484",
+            "children": []
+          },
+          {
+            "id": "1790600327155",
+            "title": "ماكسي",
+            "category": "gid://shopify/Collection/479544738100",
+            "children": []
+          },
+          {
+            "id": "1790600328555",
+            "title": "أطقم",
+            "category": "gid://shopify/Collection/479889752372",
+            "children": []
+          },
+          {
+            "id": "1790600328455",
+            "title": "ميدي",
+            "category": "gid://shopify/Collection/479544770868",
+            "children": []
+          },
+          {
+            "id": "1790600330438",
+            "title": "ميني",
+            "category": "gid://shopify/Collection/479564235060",
+            "children": []
+          },
+          {
+            "id": "1790600329421",
+            "title": "عبايات",
+            "category": "gid://shopify/Collection/479889719604",
             "children": []
           }
         ]
       },
       {
         "id": "1790601261669",
-        "title": "HOMEWEAR",
+        "title": "ملابس البيت",
         "category": "gid://shopify/Collection/479577899316",
         "image": "https://clue.eg/cdn/shop/collections/50_2.png?crop=center&height=78&v=1786451033&width=78",
         "children": [
           {
-            "id": "1790601398346",
-            "title": "UNDERWEAR",
-            "category": "gid://shopify/Collection/478276387124",
+            "id": "1790601398646",
+            "title": "جميع ملابس البيت",
+            "category": "gid://shopify/Collection/479888965940",
             "children": []
           },
           {
             "id": "1790601399329",
-            "title": "PYJAMAS",
-            "category": "gid://shopify/Collection/479501812020",
+            "title": "بيجامات",
+            "category": "gid://shopify/Collection/479889785140",
+            "children": []
+          },
+          {
+            "id": "1790601398546",
+            "title": "قمصان نوم",
+            "category": "gid://shopify/Collection/479889817908",
+            "children": []
+          },
+          {
+            "id": "1790601398346",
+            "title": "ملابس داخلية",
+            "category": "gid://shopify/Collection/479889850676",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1790600211143",
+        "title": "مقاسات كبيرة",
+        "category": "gid://shopify/Collection/479890571572",
+        "children": []
+      },
+      {
+        "id": "1790601105126",
+        "title": "أساسيات كل يوم",
+        "category": "gid://shopify/Collection/479890112820",
+        "children": []
+      },
+      {
+        "id": "1790599059946",
+        "title": "تسوقي حسب المناسبة",
+        "category": "gid://shopify/Collection/472883560756",
+        "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_10_62194f47-06d0-42e3-b1d3-135aa35f5c73.png?crop=center&height=78&v=1786449279&width=78",
+        "children": [
+          {
+            "id": "1790599181044",
+            "title": "ملابس العمل",
+            "category": "gid://shopify/Collection/479888736564",
+            "children": []
+          },
+          {
+            "id": "1790599196076",
+            "title": "ملابس مريحة",
+            "category": "gid://shopify/Collection/479890047284",
+            "children": []
+          },
+          {
+            "id": "1790599207259",
+            "title": "جينز",
+            "category": "gid://shopify/Collection/479890309428",
+            "children": []
+          },
+          {
+            "id": "1790599219709",
+            "title": "ملابس البحر",
+            "category": "gid://shopify/Collection/479594348852",
+            "children": [
+              {
+                "id": "1783435879505",
+                "title": "كل ملابس البحر",
+                "category": "gid://shopify/Collection/479890080052",
+                "children": []
+              },
+              {
+                "id": "1783435879405",
+                "title": "كاش مايوه",
+                "category": "gid://shopify/Collection/479890014516",
+                "children": []
+              },
+              {
+                "id": "1783435879305",
+                "title": "أطقم البحر",
+                "category": "gid://shopify/Collection/479544574260",
+                "children": []
+              },
+              {
+                "id": "1783435879205",
+                "title": "مايوهات",
+                "category": "gid://shopify/Collection/479889981748",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1790601256536",
+        "title": "إكسسوارات",
+        "category": "gid://shopify/Collection/440937709876",
+        "children": [
+          {
+            "id": "1790601283534",
+            "title": "جميع إكسسوارات",
+            "category": "gid://shopify/Collection/479888998708",
+            "children": []
+          },
+          {
+            "id": "1790601284534",
+            "title": "شرابات وكولونات",
+            "category": "gid://shopify/Collection/479889916212",
+            "children": []
+          },
+          {
+            "id": "1790601285534",
+            "title": "إيشاربات",
+            "category": "gid://shopify/Collection/479889883444",
+            "children": []
+          },
+          {
+            "id": "1790601288534",
+            "title": "شنط ومجوهرات",
+            "category": "gid://shopify/Collection/479889948980",
             "children": []
           }
         ]

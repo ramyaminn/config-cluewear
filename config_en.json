@@ -1426,59 +1426,67 @@
     "Menus": [
       {
         "id": "1790598898372",
-        "title": "New This Week",
-        "category": "gid://shopify/Collection/478879940916",
-        "image": "https://clue.eg/cdn/shop/collections/VOLUME_COLLECTION_CARDS_3.png?crop=center&height=78&v=1786130906&width=78",
-        "children": [
-          {
-            "id": "1790598996433",
-            "title": "New Collection",
-            "category": "gid://shopify/Collection/478879940916",
-            "children": []
-          },
-          {
-            "id": "1790599011665",
-            "title": "Best Sellers",
-            "category": "gid://shopify/Collection/449646657844",
-            "children": []
-          }
-        ]
+        "title": "NEW IN",
+        "category": "gid://shopify/Collection/478879940916"
       },
       {
         "id": "1790599422525",
-        "title": "BUNDLE OFFERS",
-        "category": "gid://shopify/Collection/479544344884",
-        "image": "https://clue.eg/cdn/shop/collections/Untitled_design_2.png?crop=center&height=78&v=1786130624&width=78",
+        "title": "BUY 1 GET 1 FREE",
+        "category": "gid://shopify/Collection/480182632756",
         "children": []
       },
       {
-        "id": "1790599059946",
-        "title": "JACKETS",
-        "category": "gid://shopify/Collection/472883560756",
-        "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_10_62194f47-06d0-42e3-b1d3-135aa35f5c73.png?crop=center&height=78&v=1786449279&width=78",
+        "id": "1790599522525",
+        "title": "2ND ITEM 70% OFF",
+        "category": "gid://shopify/Collection/480141672756",
+        "children": []
+      },
+      {
+        "id": "1790599514071",
+        "title": "TOPS",
+        "category": "gid://shopify/Collection/440936923444",
+        "image": "https://clue.eg/cdn/shop/collections/18688_2.png?crop=center&height=78&v=1784137197&width=78",
         "children": [
           {
-            "id": "1790599181044",
-            "title": "Beach Dresses",
-            "category": "gid://shopify/Collection/479199691060",
+            "id": "1790599548787",
+            "title": "ALL TOPS",
+            "category": "gid://shopify/Collection/479888769332",
             "children": []
           },
           {
-            "id": "1790599196076",
-            "title": "Cover-Ups",
-            "category": "gid://shopify/Collection/479544443188",
+            "id": "1790599771696",
+            "title": "Pullovers",
+            "category": "gid://shopify/Collection/479889162548",
             "children": []
           },
           {
-            "id": "1790599207259",
-            "title": "Beach Sets",
-            "category": "gid://shopify/Collection/479544574260",
+            "id": "1790599548687",
+            "title": "Shirts",
+            "category": "gid://shopify/Collection/479889031476",
             "children": []
           },
           {
-            "id": "1790599219709",
-            "title": "Beach Pants",
-            "category": "gid://shopify/Collection/479594348852",
+            "id": "1790599758680",
+            "title": "Sweatshirts",
+            "category": "gid://shopify/Collection/479889195316",
+            "children": []
+          },
+          {
+            "id": "1790599750449",
+            "title": "Bodysuits",
+            "category": "gid://shopify/Collection/479889129780",
+            "children": []
+          },
+          {
+            "id": "1790599599769",
+            "title": "Blouses",
+            "category": "gid://shopify/Collection/479889064244",
+            "children": []
+          },
+          {
+            "id": "1790599619268",
+            "title": "T-Shirts",
+            "category": "gid://shopify/Collection/479889097012",
             "children": []
           }
         ]
@@ -1490,160 +1498,137 @@
         "image": "https://clue.eg/cdn/shop/files/DSC01812_5b165980-77a6-438c-9d2b-06d541b68956.jpg?crop=center&height=78&v=1788107319&width=78",
         "children": [
           {
-            "id": "1790600788237",
-            "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
-            "children": []
-          },
-          {
-            "id": "1790600789205",
-            "title": "Cardigans",
-            "category": "gid://shopify/Collection/479544279348",
+            "id": "1790600788337",
+            "title": "ALL OUTERWEAR",
+            "category": "gid://shopify/Collection/479888802100",
             "children": []
           },
           {
             "id": "1790600790170",
             "title": "Jackets & Coats",
-            "category": "gid://shopify/Collection/440937120052",
+            "category": "gid://shopify/Collection/479889359156",
             "children": []
           },
           {
-            "id": "1790600791087",
-            "title": "Blazers",
-            "category": "gid://shopify/Collection/479544475956",
+            "id": "1790600789205",
+            "title": "Cardigans",
+            "category": "gid://shopify/Collection/479889326388",
             "children": []
           },
           {
             "id": "1790600792687",
             "title": "Ponchos",
-            "category": "gid://shopify/Collection/462586118452",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1790599514071",
-        "title": "TOPS",
-        "category": "gid://shopify/Collection/440936923444",
-        "image": "https://clue.eg/cdn/shop/collections/18688_2.png?crop=center&height=78&v=1784137197&width=78",
-        "children": [
-          {
-            "id": "1790599548687",
-            "title": "Shirts",
-            "category": "gid://shopify/Collection/440936956212",
+            "category": "gid://shopify/Collection/479889457460",
             "children": []
           },
           {
-            "id": "1790599599769",
-            "title": "Blouses",
-            "category": "gid://shopify/Collection/479544213812",
-            "children": []
-          },
-          {
-            "id": "1790599606685",
+            "id": "1790600788237",
             "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
+            "category": "gid://shopify/Collection/479889293620",
             "children": []
           },
           {
-            "id": "1790599614751",
+            "id": "1790600791087",
+            "title": "Blazers",
+            "category": "gid://shopify/Collection/479889424692",
+            "children": []
+          },
+          {
+            "id": "1790600791987",
             "title": "Vests",
-            "category": "gid://shopify/Collection/479544377652",
-            "children": []
-          },
-          {
-            "id": "1790599619268",
-            "title": "T-Shirts",
-            "category": "gid://shopify/Collection/440937021748",
-            "children": []
-          },
-          {
-            "id": "1790599750449",
-            "title": "Bodysuits",
-            "category": "gid://shopify/Collection/477783753012",
-            "children": []
-          },
-          {
-            "id": "1790599758680",
-            "title": "Sweatshirts & Hoodies",
-            "category": "gid://shopify/Collection/462585921844",
-            "children": []
-          },
-          {
-            "id": "1790599771696",
-            "title": "Pullovers",
-            "category": "gid://shopify/Collection/479544639796",
+            "category": "gid://shopify/Collection/479889391924",
             "children": []
           }
         ]
-      },
-      {
-        "id": "1790600211143",
-        "title": "DENIM",
-        "category": "gid://shopify/Collection/479594873140",
-        "image": "https://clue.eg/cdn/shop/collections/50_11.png?crop=center&height=78&v=1786535327&width=78",
-        "children": []
       },
       {
         "id": "1790599974453",
         "title": "BOTTOMS",
         "category": "gid://shopify/Collection/440937316660",
-        "image": "https://clue.eg/cdn/shop/collections/Trending_Collections_1.png?crop=center&height=78&v=1784137582&width=78",
         "children": [
+          {
+            "id": "1790600039767",
+            "title": "ALL BOTTOMS ",
+            "category": "gid://shopify/Collection/479888834868",
+            "children": []
+          },
           {
             "id": "1790600039667",
             "title": "Pants ",
-            "category": "gid://shopify/Collection/479544246580",
+            "category": "gid://shopify/Collection/479889490228",
+            "children": []
+          },
+          {
+            "id": "1790600036667",
+            "title": "Jeans ",
+            "category": "gid://shopify/Collection/479889522996",
             "children": []
           },
           {
             "id": "1790600041316",
-            "title": "Shorts & Skirts",
-            "category": "gid://shopify/Collection/479544607028",
+            "title": "Skirts",
+            "category": "gid://shopify/Collection/479889555764",
+            "children": []
+          },
+          {
+            "id": "1790600043316",
+            "title": "Shorts",
+            "category": "gid://shopify/Collection/479889588532",
+            "children": []
+          },
+          {
+            "id": "1790600043382",
+            "title": "Leggings",
+            "category": "gid://shopify/Collection/479889621300",
             "children": []
           },
           {
             "id": "1790600042417",
             "title": "Sweatpants",
-            "category": "gid://shopify/Collection/479544312116",
-            "children": []
-          },
-          {
-            "id": "1790600043382",
-            "title": "Denim Pants",
-            "category": "gid://shopify/Collection/479594840372",
+            "category": "gid://shopify/Collection/479889654068",
             "children": []
           }
         ]
       },
       {
         "id": "1790600323389",
-        "title": "DRESSES",
+        "title": "DRESSES & SETS",
         "category": "gid://shopify/Collection/440937546036",
-        "image": "https://clue.eg/cdn/shop/collections/18552_1.png?crop=center&height=78&v=1784131373&width=78",
         "children": [
           {
+            "id": "1790600327355",
+            "title": "ALL DRESSES & SETS",
+            "category": "gid://shopify/Collection/480181682484",
+            "children": []
+          },
+          {
             "id": "1790600327155",
-            "title": "Maxi Dresses",
+            "title": "Maxi",
             "category": "gid://shopify/Collection/479544738100",
             "children": []
           },
           {
+            "id": "1790600328555",
+            "title": "Sets",
+            "category": "gid://shopify/Collection/479889752372",
+            "children": []
+          },
+          {
             "id": "1790600328455",
-            "title": "Midi Dresses",
+            "title": "Midi",
             "category": "gid://shopify/Collection/479544770868",
+            "children": []
+          },
+          {
+            "id": "1790600330438",
+            "title": "Mini",
+            "category": "gid://shopify/Collection/479564235060",
             "children": []
           },
           {
             "id": "1790600329421",
             "title": "Abayas",
-            "category": "gid://shopify/Collection/479544410420",
-            "children": []
-          },
-          {
-            "id": "1790600330438",
-            "title": "Kimonos",
-            "category": "gid://shopify/Collection/440937087284",
+            "category": "gid://shopify/Collection/479889719604",
             "children": []
           }
         ]
@@ -1655,42 +1640,97 @@
         "image": "https://clue.eg/cdn/shop/collections/50_2.png?crop=center&height=78&v=1786451033&width=78",
         "children": [
           {
-            "id": "1790601398346",
-            "title": "UNDERWEAR",
-            "category": "gid://shopify/Collection/478276387124",
+            "id": "1790601398646",
+            "title": "All HomeWear",
+            "category": "gid://shopify/Collection/479888965940",
             "children": []
           },
           {
             "id": "1790601399329",
-            "title": "PYJAMAS",
-            "category": "gid://shopify/Collection/479501812020",
+            "title": "Pyjamas",
+            "category": "gid://shopify/Collection/479889785140",
+            "children": []
+          },
+          {
+            "id": "1790601398546",
+            "title": "Nightgowns",
+            "category": "gid://shopify/Collection/479889817908",
+            "children": []
+          },
+          {
+            "id": "1790601398346",
+            "title": "UnderWear",
+            "category": "gid://shopify/Collection/479889850676",
             "children": []
           }
         ]
       },
       {
+        "id": "1790600211143",
+        "title": "Plus Size",
+        "category": "gid://shopify/Collection/479890571572",
+        "children": []
+      },
+      {
         "id": "1790601105126",
-        "title": "ESSENTIALS",
-        "category": "gid://shopify/Collection/479542935860",
-        "image": "https://clue.eg/cdn/shop/collections/50_1.png?crop=center&height=78&v=1786450775&width=78",
+        "title": "EVERYDAY BASICS",
+        "category": "gid://shopify/Collection/479890112820",
+        "children": []
+      },
+      {
+        "id": "1790599059946",
+        "title": "SHOP BY OCCASION",
+        "category": "gid://shopify/Collection/472883560756",
+        "image": "https://clue.eg/cdn/shop/collections/MAIN_MENU_DRAWER_10_62194f47-06d0-42e3-b1d3-135aa35f5c73.png?crop=center&height=78&v=1786449279&width=78",
         "children": [
           {
-            "id": "1790601151540",
-            "title": "Socks & Tights",
-            "category": "gid://shopify/Collection/476368830772",
+            "id": "1790599181044",
+            "title": "Workwear",
+            "category": "gid://shopify/Collection/479888736564",
             "children": []
           },
           {
-            "id": "1790601152657",
-            "title": "Underwear",
-            "category": "gid://shopify/Collection/478276387124",
+            "id": "1790599196076",
+            "title": "Loungewear",
+            "category": "gid://shopify/Collection/479890047284",
             "children": []
           },
           {
-            "id": "1790601153607",
-            "title": "Bodysuits",
-            "category": "gid://shopify/Collection/477783753012",
+            "id": "1790599207259",
+            "title": "Denim",
+            "category": "gid://shopify/Collection/479890309428",
             "children": []
+          },
+          {
+            "id": "1790599219709",
+            "title": "Beachwear",
+            "category": "gid://shopify/Collection/479594348852",
+            "children": [
+              {
+                "id": "1783435879505",
+                "title": "All Beachwear",
+                "category": "gid://shopify/Collection/479890080052",
+                "children": []
+              },
+              {
+                "id": "1783435879405",
+                "title": "Cover-Ups",
+                "category": "gid://shopify/Collection/479890014516",
+                "children": []
+              },
+              {
+                "id": "1783435879305",
+                "title": "Beach Sets",
+                "category": "gid://shopify/Collection/479544574260",
+                "children": []
+              },
+              {
+                "id": "1783435879205",
+                "title": "Swimwear",
+                "category": "gid://shopify/Collection/479889981748",
+                "children": []
+              }
+            ]
           }
         ]
       },
@@ -1698,12 +1738,29 @@
         "id": "1790601256536",
         "title": "ACCESSORIES",
         "category": "gid://shopify/Collection/440937709876",
-        "image": "https://clue.eg/cdn/shop/collections/Accessories.png?crop=center&height=78&v=1786130788&width=78",
         "children": [
+          {
+            "id": "1790601283534",
+            "title": "ALL ACCESSORIES",
+            "category": "gid://shopify/Collection/479888998708",
+            "children": []
+          },
+          {
+            "id": "1790601284534",
+            "title": "Socks & Tights",
+            "category": "gid://shopify/Collection/479889916212",
+            "children": []
+          },
           {
             "id": "1790601285534",
             "title": "Scarves",
-            "category": "gid://shopify/Collection/478276518196",
+            "category": "gid://shopify/Collection/479889883444",
+            "children": []
+          },
+          {
+            "id": "1790601288534",
+            "title": "Bags & Jewelry",
+            "category": "gid://shopify/Collection/479889948980",
             "children": []
           }
         ]
