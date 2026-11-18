@@ -192,8 +192,7 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 66,
       "enableAutoSliding": false,
-      "orderby": "manual",
-      "order": "desc"
+      "orderby": "manual"
     },
     {
       "height": 20,
@@ -289,8 +288,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/478879940916",
-      "name": "NEW THIS WEEK",
+      "category": "gid://shopify/Collection/480141672756",
+      "name": "2nd Item 70% Off",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -338,8 +337,7 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 66,
       "enableAutoSliding": false,
-      "orderby": "date",
-      "order": "desc"
+      "orderby": "manual"
     },
     {
       "height": 20,
@@ -435,8 +433,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/449646657844",
-      "name": "Best Sellers",
+      "category": "gid://shopify/Collection/478879940916",
+      "name": "NEW THIS WEEK",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -484,8 +482,7 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 66,
       "enableAutoSliding": false,
-      "orderby": "best-selling",
-      "order": "desc"
+      "orderby": "manual"
     },
     {
       "height": 10,
