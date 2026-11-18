@@ -1771,34 +1771,16 @@
         "pageSubtitle": "أفضل القطع بأفضل الأسعار",
         "cards": [
           {
-            "title": "تصفيات الصيف! ☀️",
-            "subtitle": "خصم يصل إلى 50%",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image1_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/490093478128"
+            "title": "بلاك فرايدي",
+            "subtitle": "اشتري قطعة والتانية بخصم 70%",
+            "image": "https://clue.eg/cdn/shop/files/1_7a8945f5-0b33-44c8-ab83-16ad36968d3e.png?v=1794996452&width=1225",
+            "collection": "gid://shopify/Collection/480141672756"
           },
           {
-            "title": "حصرياً",
-            "subtitle": "خصم حتى 50% على البانتيهات",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image2_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/490402218224"
-          },
-          {
-            "title": "خصومات التوبات الأساسية!",
-            "subtitle": "اشتري 5 بسعر 2",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/485426299120"
-          },
-          {
-            "title": "حصريا أونلاين",
-            "subtitle": "خصم حتى 30% على التوبات الأساسية",
-            "image": "https://carina.eg/cdn/shop/files/imgi_1_Untitled-zzzcopy_1800x_copy_1400x.jpg?v=1783341152",
-            "collection": "gid://shopify/Collection/473920700656"
-          },
-          {
-            "title": "متفوتيش الفرصة",
-            "subtitle": "خصم حتى 40% على الجيرلي",
-            "image": "https://carina.eg/cdn/shop/files/2026-09-01_150922_copy_800x.jpg?v=1788264692",
-            "collection": "gid://shopify/Collection/485672780016"
+            "title": "بلاك فرايدي",
+            "subtitle": "اشتري قطعة والتانية مجاناً",
+            "image": "https://clue.eg/cdn/shop/files/2_6189cc8f-47fd-4767-8829-551ff6d8171e.png?v=1794996453&width=1225",
+            "collection": "gid://shopify/Collection/480182632756"
           }
         ]
       }
@@ -1810,7 +1792,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/App_2_.jpg_1.jpg?v=1788086905"
     },
     "ProductBadges": {
-      "enabled": true,
+      "enabled": false,
       "badges": [
         {
           "image": "https://app.shinecommerce.co/storage/Y2FyaW5hd2Vhci5teXNob3BpZnkuY29t/libraries/BUY2-GET3-2hju9dgUiTz.png",

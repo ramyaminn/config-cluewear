@@ -1262,7 +1262,8 @@
         "language",
         "order",
         "privacy",
-        "returnRefund"
+        "returnRefund",
+        "callUs"
       ],
       "styleItem": "flat",
       "defaultTab": false,
@@ -1777,34 +1778,16 @@
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
           {
-            "title": "END OF SUMMER SALE! ☀️",
-            "subtitle": "UP TO 50% OFF",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image1_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/490093478128"
+            "title": "Black Friday",
+            "subtitle": "2nd Item 70% Off",
+            "image": "https://clue.eg/cdn/shop/files/1_7a8945f5-0b33-44c8-ab83-16ad36968d3e.png?v=1794996452&width=1225",
+            "collection": "gid://shopify/Collection/480141672756"
           },
           {
-            "title": "EXCLUSIVE",
-            "subtitle": "UP TO 50% OFF PANTIES",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image2_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/490402218224"
-          },
-          {
-            "title": "BASIC TOPS OFFER!",
-            "subtitle": "BUY 2 GET 3 FREE",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/485426299120"
-          },
-          {
-            "title": "ONLINE EXCLUSIVE",
-            "subtitle": "UP TO 30% OFF BASIC TOPS",
-            "image": "https://carina.eg/cdn/shop/files/imgi_1_Untitled-zzzcopy_1800x_copy_1400x.jpg?v=1783341152",
-            "collection": "gid://shopify/Collection/473920700656"
-          },
-          {
-            "title": "Don't Miss Out",
-            "subtitle": "UP TO 40% OFF GIRLY",
-            "image": "https://carina.eg/cdn/shop/files/2026-09-01_150922_copy_800x.jpg?v=1788264692",
-            "collection": "gid://shopify/Collection/485672780016"
+            "title": "Black Friday",
+            "subtitle": "Buy 1 Get 1 Free",
+            "image": "https://clue.eg/cdn/shop/files/2_6189cc8f-47fd-4767-8829-551ff6d8171e.png?v=1794996453&width=1225",
+            "collection": "gid://shopify/Collection/480182632756"
           }
         ]
       }
