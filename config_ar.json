@@ -192,8 +192,7 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 66,
       "enableAutoSliding": false,
-      "orderby": "date",
-      "order": "desc"
+      "orderby": "manual"
     },
     {
       "height": 12,
@@ -289,8 +288,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/478879940916",
-      "name": "جديد هذا الأسبوع",
+      "category": "gid://shopify/Collection/480141672756",
+      "name": "اشتري قطعة والتانية بخصم 70%",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -435,8 +434,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/449646657844",
-      "name": "الأكثر مبيعاً",
+      "category": "gid://shopify/Collection/478879940916",
+      "name": "جديد هذا الأسبوع",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -484,8 +483,7 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 66,
       "enableAutoSliding": false,
-      "orderby": "date",
-      "order": "desc"
+      "orderby": "manual"
     },
     {
       "type": "image",
