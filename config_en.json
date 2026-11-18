@@ -193,7 +193,7 @@
       "productListItemHeight": 66,
       "enableAutoSliding": false,
       "orderby": "manual",
-      "order": "asc"
+      "order": "desc"
     },
     {
       "height": 20,
