@@ -31,19 +31,19 @@
         {
           "key": "",
           "type": "image",
-          "image": "https://clue.eg/cdn/shop/files/1_7a8945f5-0b33-44c8-ab83-16ad36968d3e.png?v=1794996452&width=1225",
+          "image": "https://clue.eg/cdn/shop/files/10_4afc8e1c-3922-471d-8c8a-ab3709c07238.png?v=1795435160&width=1225",
           "video": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/480141672756"
+          "category": "gid://shopify/Collection/480182632756"
         },
         {
           "key": "",
           "type": "image",
-          "image": "https://clue.eg/cdn/shop/files/2_6189cc8f-47fd-4767-8829-551ff6d8171e.png?v=1794996453&width=1225",
+          "image": "https://clue.eg/cdn/shop/files/MOBILE_BLKFRIDAY.png?v=1795002394&width=1225",
           "video": "",
           "products": [],
           "productLength": 3,
@@ -217,11 +217,11 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "WORK ATTIRE",
-          "name": "WORK ATTIRE",
+          "title": "Winter Pajamas",
+          "name": "Winter Pajamas",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://clue.eg/cdn/shop/files/DSC02390_1.jpg?v=1791312984&width=1225",
+          "image": "https://clue.eg/cdn/shop/files/Trending_Collections_1_f1db27b3-eb50-498d-9925-8264004fe8c1.png?v=1795363619&width=1225",
           "tag": null,
           "category": "gid://shopify/Collection/479888736564",
           "showDescription": false,
@@ -288,8 +288,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/480141672756",
-      "name": "2nd Item 70% Off",
+      "category": "gid://shopify/Collection/480182632756",
+      "name": "Buy 1 Get 1 Free on Everything",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -1445,12 +1445,6 @@
         "children": []
       },
       {
-        "id": "1790599522525",
-        "title": "2ND ITEM 70% OFF",
-        "category": "gid://shopify/Collection/480141672756",
-        "children": []
-      },
-      {
         "id": "1790599514071",
         "title": "TOPS",
         "category": "gid://shopify/Collection/440936923444",
@@ -1778,10 +1772,10 @@
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
           {
-            "title": "Black Friday",
-            "subtitle": "2nd Item 70% Off",
-            "image": "https://clue.eg/cdn/shop/files/1_7a8945f5-0b33-44c8-ab83-16ad36968d3e.png?v=1794996452&width=1225",
-            "collection": "gid://shopify/Collection/480141672756"
+            "title": "Free Delivery",
+            "subtitle": "Orders over EGP 2,499",
+            "image": "https://clue.eg/cdn/shop/files/10_4afc8e1c-3922-471d-8c8a-ab3709c07238.png?v=1795435160&width=1225",
+            "collection": "gid://shopify/Collection/480182632756"
           },
           {
             "title": "Black Friday",

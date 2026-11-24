@@ -31,14 +31,14 @@
         {
           "key": "",
           "type": "image",
-          "image": "https://clue.eg/cdn/shop/files/6_49b1e3cc-6c05-42d9-bce4-5993b1b62da9.png?v=1795002670&width=1225",
+          "image": "https://clue.eg/cdn/shop/files/11_b247d2ba-f04c-4d92-a02a-c7f7917fd8f8.png?v=1795435160&width=1225",
           "video": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/480141672756"
+          "category": "gid://shopify/Collection/480182632756"
         },
         {
           "key": "",
@@ -217,11 +217,11 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "ملابس العمل",
-          "name": "ملابس العمل",
+          "title": "بيجامات شتوية",
+          "name": "بيجامات شتوية",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://clue.eg/cdn/shop/files/DSC02390_1.jpg?v=1791312984&width=1225",
+          "image": "https://clue.eg/cdn/shop/files/Trending_Collections_1_f1db27b3-eb50-498d-9925-8264004fe8c1.png?v=1795363619&width=1225",
           "tag": null,
           "category": "gid://shopify/Collection/479888736564",
           "showDescription": false,
@@ -288,8 +288,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/480141672756",
-      "name": "اشتري قطعة والتانية بخصم 70%",
+      "category": "gid://shopify/Collection/480182632756",
+      "name": "اشتري قطعة والتانية مجاناً على كل المنتجات",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -1438,12 +1438,6 @@
         "children": []
       },
       {
-        "id": "1790599522525",
-        "title": "القطعة التانية بخصم 70%",
-        "category": "gid://shopify/Collection/480141672756",
-        "children": []
-      },
-      {
         "id": "1790599514071",
         "title": "توبات",
         "category": "gid://shopify/Collection/440936923444",
@@ -1771,10 +1765,10 @@
         "pageSubtitle": "أفضل القطع بأفضل الأسعار",
         "cards": [
           {
-            "title": "بلاك فرايدي",
-            "subtitle": "اشتري قطعة والتانية بخصم 70%",
-            "image": "https://clue.eg/cdn/shop/files/6_49b1e3cc-6c05-42d9-bce4-5993b1b62da9.png?v=1795002670&width=1225",
-            "collection": "gid://shopify/Collection/480141672756"
+            "title": "توصيل مجاني",
+            "subtitle": "للطلبات فوق 2,499 جنيه",
+            "image": "https://clue.eg/cdn/shop/files/11_b247d2ba-f04c-4d92-a02a-c7f7917fd8f8.png?v=1795435160&width=1225",
+            "collection": "gid://shopify/Collection/480182632756"
           },
           {
             "title": "بلاك فرايدي",
